@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\UE5\\Project\\PinWorld\\Source\\PinWorld\\PinWorld.Build.cs",
+		"arguments": [
+			"F:\\Visual Studio\\2022\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5\\Project\\PinWorld\\.vscode\\compileCommands_Default\\PinWorld.1.rsp"
+		],
+		"directory": "D:\\UE5\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5\\Project\\PinWorld\\Source\\PinWorld\\PinWorld.cpp",
+		"arguments": [
+			"F:\\Visual Studio\\2022\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5\\Project\\PinWorld\\.vscode\\compileCommands_Default\\PinWorld.1.rsp"
+		],
+		"directory": "D:\\UE5\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5\\Project\\PinWorld\\Source\\PinWorld\\PinWorld.h",
+		"arguments": [
+			"F:\\Visual Studio\\2022\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5\\Project\\PinWorld\\.vscode\\compileCommands_Default\\PinWorld.1.rsp"
+		],
+		"directory": "D:\\UE5\\UE_5.6\\Engine\\Source"
+	}
+]

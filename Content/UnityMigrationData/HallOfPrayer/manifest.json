@@ -1,0 +1,1184 @@
+{
+  "schemaVersion": 1,
+  "level": "HallOfPrayer",
+  "panelEntries": [
+    {
+      "id": "Base_1",
+      "name": "Base 1",
+      "rendererObjectIds": [
+        "Base_1"
+      ],
+      "memberPlaceableIds": [
+        "Base_1"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Base_2",
+      "name": "Base 2",
+      "rendererObjectIds": [
+        "Base_2"
+      ],
+      "memberPlaceableIds": [
+        "Base_2"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Base_3",
+      "name": "Base 3",
+      "rendererObjectIds": [
+        "Base_3"
+      ],
+      "memberPlaceableIds": [
+        "Base_3"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Bracket_1",
+      "name": "Bracket 1",
+      "rendererObjectIds": [
+        "Bracket_1"
+      ],
+      "memberPlaceableIds": [
+        "Bracket_1"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Bracket_2",
+      "name": "Bracket 2",
+      "rendererObjectIds": [
+        "Bracket_2"
+      ],
+      "memberPlaceableIds": [
+        "Bracket_2"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Bracket_3",
+      "name": "Bracket 3",
+      "rendererObjectIds": [
+        "Bracket_3"
+      ],
+      "memberPlaceableIds": [
+        "Bracket_3"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Finial",
+      "name": "Finial",
+      "rendererObjectIds": [
+        "Finial"
+      ],
+      "memberPlaceableIds": [
+        "Finial"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "ImperialWay_South",
+      "name": "ImperialWay South",
+      "rendererObjectIds": [
+        "ImperialWay_South"
+      ],
+      "memberPlaceableIds": [
+        "ImperialWay_South"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Plaque",
+      "name": "Plaque",
+      "rendererObjectIds": [
+        "Plaque"
+      ],
+      "memberPlaceableIds": [
+        "Plaque"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Plaza_OuterPavers",
+      "name": "Plaza OuterPavers",
+      "rendererObjectIds": [
+        "Plaza_OuterPavers"
+      ],
+      "memberPlaceableIds": [
+        "Plaza_OuterPavers"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Plaza_Substrate",
+      "name": "Plaza Substrate",
+      "rendererObjectIds": [
+        "Plaza_Substrate"
+      ],
+      "memberPlaceableIds": [
+        "Plaza_Substrate"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Rail_1",
+      "name": "Rail 1",
+      "rendererObjectIds": [
+        "Rail_1"
+      ],
+      "memberPlaceableIds": [
+        "Rail_1"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Rail_2",
+      "name": "Rail 2",
+      "rendererObjectIds": [
+        "Rail_2"
+      ],
+      "memberPlaceableIds": [
+        "Rail_2"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Rail_3",
+      "name": "Rail 3",
+      "rendererObjectIds": [
+        "Rail_3"
+      ],
+      "memberPlaceableIds": [
+        "Rail_3"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Roof_1",
+      "name": "Roof 1",
+      "rendererObjectIds": [
+        "Roof_1"
+      ],
+      "memberPlaceableIds": [
+        "Roof_1"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Roof_2",
+      "name": "Roof 2",
+      "rendererObjectIds": [
+        "Roof_2"
+      ],
+      "memberPlaceableIds": [
+        "Roof_2"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Roof_3",
+      "name": "Roof 3",
+      "rendererObjectIds": [
+        "Roof_3"
+      ],
+      "memberPlaceableIds": [
+        "Roof_3"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Stairs_East",
+      "name": "Stairs East",
+      "rendererObjectIds": [
+        "Stairs_East"
+      ],
+      "memberPlaceableIds": [
+        "Stairs_East"
+      ],
+      "equivalenceGroup": "CardinalStairs"
+    },
+    {
+      "id": "Stairs_North",
+      "name": "Stairs North",
+      "rendererObjectIds": [
+        "Stairs_North"
+      ],
+      "memberPlaceableIds": [
+        "Stairs_North"
+      ],
+      "equivalenceGroup": "CardinalStairs"
+    },
+    {
+      "id": "Stairs_South",
+      "name": "Stairs South",
+      "rendererObjectIds": [
+        "Stairs_South"
+      ],
+      "memberPlaceableIds": [
+        "Stairs_South"
+      ],
+      "equivalenceGroup": "CardinalStairs"
+    },
+    {
+      "id": "Stairs_West",
+      "name": "Stairs West",
+      "rendererObjectIds": [
+        "Stairs_West"
+      ],
+      "memberPlaceableIds": [
+        "Stairs_West"
+      ],
+      "equivalenceGroup": "CardinalStairs"
+    },
+    {
+      "id": "Wall_1",
+      "name": "Wall 1",
+      "rendererObjectIds": [
+        "Wall_1"
+      ],
+      "memberPlaceableIds": [
+        "Wall_1"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Wall_2",
+      "name": "Wall 2",
+      "rendererObjectIds": [
+        "Wall_2"
+      ],
+      "memberPlaceableIds": [
+        "Wall_2"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Wall_3",
+      "name": "Wall 3",
+      "rendererObjectIds": [
+        "Wall_3"
+      ],
+      "memberPlaceableIds": [
+        "Wall_3"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Wall_4",
+      "name": "Wall 4",
+      "rendererObjectIds": [
+        "Wall_4"
+      ],
+      "memberPlaceableIds": [
+        "Wall_4"
+      ],
+      "equivalenceGroup": ""
+    }
+  ],
+  "objects": [
+    {
+      "id": "Base_1",
+      "name": "Base_1",
+      "hierarchyPath": "HallOfPrayer/Base_1",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Base_1",
+      "materialIds": [
+        "marble",
+        "carving"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Base_2",
+      "name": "Base_2",
+      "hierarchyPath": "HallOfPrayer/Base_2",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Base_2",
+      "materialIds": [
+        "marble",
+        "carving"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Base_3",
+      "name": "Base_3",
+      "hierarchyPath": "HallOfPrayer/Base_3",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Base_3",
+      "materialIds": [
+        "marble",
+        "carving"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Bracket_1",
+      "name": "Bracket_1",
+      "hierarchyPath": "HallOfPrayer/Bracket_1",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Bracket_1",
+      "materialIds": [
+        "red",
+        "paint_blue",
+        "gold",
+        "teal"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Bracket_2",
+      "name": "Bracket_2",
+      "hierarchyPath": "HallOfPrayer/Bracket_2",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Bracket_2",
+      "materialIds": [
+        "red",
+        "paint_blue",
+        "gold",
+        "teal"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Bracket_3",
+      "name": "Bracket_3",
+      "hierarchyPath": "HallOfPrayer/Bracket_3",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Bracket_3",
+      "materialIds": [
+        "red",
+        "paint_blue",
+        "gold",
+        "teal"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Finial",
+      "name": "Finial",
+      "hierarchyPath": "HallOfPrayer/Finial",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Finial",
+      "materialIds": [
+        "gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "ImperialWay_South",
+      "name": "ImperialWay_South",
+      "hierarchyPath": "HallOfPrayer/ImperialWay_South",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "ImperialWay_South",
+      "materialIds": [
+        "carving",
+        "marble"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Plaque",
+      "name": "Plaque",
+      "hierarchyPath": "HallOfPrayer/Plaque",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Plaque",
+      "materialIds": [
+        "gold",
+        "paint_blue"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Plaza_OuterPavers",
+      "name": "Plaza_OuterPavers",
+      "hierarchyPath": "HallOfPrayer/Plaza_OuterPavers",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Plaza_OuterPavers",
+      "materialIds": [
+        "paving_alt",
+        "paving"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Plaza_Substrate",
+      "name": "Plaza_Substrate",
+      "hierarchyPath": "HallOfPrayer/Plaza_Substrate",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Plaza_Substrate",
+      "materialIds": [
+        "grout"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Rail_1",
+      "name": "Rail_1",
+      "hierarchyPath": "HallOfPrayer/Rail_1",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Rail_1",
+      "materialIds": [
+        "carving",
+        "marble"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Rail_2",
+      "name": "Rail_2",
+      "hierarchyPath": "HallOfPrayer/Rail_2",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Rail_2",
+      "materialIds": [
+        "carving",
+        "marble"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Rail_3",
+      "name": "Rail_3",
+      "hierarchyPath": "HallOfPrayer/Rail_3",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Rail_3",
+      "materialIds": [
+        "carving",
+        "marble"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Roof_1",
+      "name": "Roof_1",
+      "hierarchyPath": "HallOfPrayer/Roof_1",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Roof_1",
+      "materialIds": [
+        "tile",
+        "tile_edge",
+        "gold",
+        "ridge"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Roof_2",
+      "name": "Roof_2",
+      "hierarchyPath": "HallOfPrayer/Roof_2",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Roof_2",
+      "materialIds": [
+        "tile",
+        "tile_edge",
+        "gold",
+        "ridge"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Roof_3",
+      "name": "Roof_3",
+      "hierarchyPath": "HallOfPrayer/Roof_3",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Roof_3",
+      "materialIds": [
+        "tile",
+        "tile_edge",
+        "gold",
+        "ridge"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Stairs_East",
+      "name": "Stairs_East",
+      "hierarchyPath": "HallOfPrayer/Stairs_East",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Stairs_East",
+      "materialIds": [
+        "marble",
+        "carving"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Stairs_North",
+      "name": "Stairs_North",
+      "hierarchyPath": "HallOfPrayer/Stairs_North",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Stairs_North",
+      "materialIds": [
+        "marble",
+        "carving"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Stairs_South",
+      "name": "Stairs_South",
+      "hierarchyPath": "HallOfPrayer/Stairs_South",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Stairs_South",
+      "materialIds": [
+        "marble",
+        "carving"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Stairs_West",
+      "name": "Stairs_West",
+      "hierarchyPath": "HallOfPrayer/Stairs_West",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Stairs_West",
+      "materialIds": [
+        "marble",
+        "carving"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Wall_1",
+      "name": "Wall_1",
+      "hierarchyPath": "HallOfPrayer/Wall_1",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Wall_1",
+      "materialIds": [
+        "carving",
+        "red_dark",
+        "red",
+        "gold",
+        "shadow"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Wall_2",
+      "name": "Wall_2",
+      "hierarchyPath": "HallOfPrayer/Wall_2",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Wall_2",
+      "materialIds": [
+        "carving",
+        "red_dark",
+        "red",
+        "gold",
+        "shadow"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Wall_3",
+      "name": "Wall_3",
+      "hierarchyPath": "HallOfPrayer/Wall_3",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Wall_3",
+      "materialIds": [
+        "carving",
+        "red_dark",
+        "red",
+        "gold",
+        "shadow"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Wall_4",
+      "name": "Wall_4",
+      "hierarchyPath": "HallOfPrayer/Wall_4",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Wall_4",
+      "materialIds": [
+        "carving",
+        "red_dark",
+        "red",
+        "gold",
+        "shadow"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "id": "marble",
+      "color": {
+        "r": 0.54,
+        "g": 0.48,
+        "b": 0.38,
+        "a": 1
+      }
+    },
+    {
+      "id": "carving",
+      "color": {
+        "r": 0.68,
+        "g": 0.59,
+        "b": 0.45,
+        "a": 1
+      }
+    },
+    {
+      "id": "red",
+      "color": {
+        "r": 0.46000000834465027,
+        "g": 0.02500000037252903,
+        "b": 0.014999999664723873,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "red_dark",
+      "color": {
+        "r": 0.23999999463558197,
+        "g": 0.017999999225139618,
+        "b": 0.012000000104308128,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "shadow",
+      "color": {
+        "r": 0.02199999988079071,
+        "g": 0.02800000086426735,
+        "b": 0.03099999949336052,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "teal",
+      "color": {
+        "r": 0.017999999225139618,
+        "g": 0.23999999463558197,
+        "b": 0.2199999988079071,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "paint_blue",
+      "color": {
+        "r": 0.017999999225139618,
+        "g": 0.09000000357627869,
+        "b": 0.25,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "gold",
+      "color": {
+        "r": 0.8299999833106995,
+        "g": 0.5099999904632568,
+        "b": 0.0949999988079071,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "tile",
+      "color": {
+        "r": 0.012000000104308128,
+        "g": 0.07500000298023224,
+        "b": 0.25,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "ridge",
+      "color": {
+        "r": 0.017999999225139618,
+        "g": 0.14499999582767487,
+        "b": 0.38999998569488525,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "tile_edge",
+      "color": {
+        "r": 0.02500000037252903,
+        "g": 0.20999999344348907,
+        "b": 0.4300000071525574,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "grout",
+      "color": {
+        "r": 0.1899999976158142,
+        "g": 0.2199999988079071,
+        "b": 0.23000000417232513,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "paving",
+      "color": {
+        "r": 0.36000001430511475,
+        "g": 0.38999998569488525,
+        "b": 0.4000000059604645,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "paving_alt",
+      "color": {
+        "r": 0.4000000059604645,
+        "g": 0.41999998688697815,
+        "b": 0.41999998688697815,
+        "a": 1.0
+      }
+    }
+  ],
+  "doors": []
+}

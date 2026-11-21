@@ -1,0 +1,17 @@
+Running AutomationTool...
+Using bundled DotNet SDK version: 8.0.300 win-x64
+Starting AutomationTool...
+Parsing command line: BuildCookRun -project=D:\UE5\Project\PinWorld\PinWorld.uproject -noP4 -platform=Android -cookflavor=ASTC -clientconfig=Development -build -unattended -utf8output -nocompileeditor -nodebuginfo
+Initializing script modules...
+Total script module initialization time: 0.35 s.
+Using F:\Visual Studio\2022\MSBuild\Current\Bin\MSBuild.exe
+Executing commands...
+Setting up ProjectParams for D:\UE5\Project\PinWorld\PinWorld.uproject
+********** BUILD COMMAND STARTED **********
+No build products were made
+Build command time: 0.01 s
+********** BUILD COMMAND COMPLETED **********
+BuildCookRun time: 1.24 s
+BUILD SUCCESSFUL
+AutomationTool executed for 0h 0m 2s
+AutomationTool exiting with ExitCode=0 (Success)

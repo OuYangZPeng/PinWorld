@@ -1,0 +1,283 @@
+{
+  "sourceBuilderSha256": "79d58bfa8213cf69c1000fd5689b66fc9c63758fe4370b230cb8a043a800efcb",
+  "parts": [
+    {
+      "id": "Arch_Vault_0",
+      "faces": 98,
+      "triangles": 196,
+      "materialSlots": [
+        "wall_red"
+      ]
+    },
+    {
+      "id": "Arch_Vault_1",
+      "faces": 98,
+      "triangles": 196,
+      "materialSlots": [
+        "wall_red"
+      ]
+    },
+    {
+      "id": "Arch_Vault_2",
+      "faces": 98,
+      "triangles": 196,
+      "materialSlots": [
+        "wall_red"
+      ]
+    },
+    {
+      "id": "Arch_Vault_3",
+      "faces": 98,
+      "triangles": 196,
+      "materialSlots": [
+        "wall_red"
+      ]
+    },
+    {
+      "id": "Arch_Vault_4",
+      "faces": 98,
+      "triangles": 196,
+      "materialSlots": [
+        "wall_red"
+      ]
+    },
+    {
+      "id": "Balustrade_Back",
+      "faces": 692,
+      "triangles": 1928,
+      "materialSlots": [
+        "stone"
+      ]
+    },
+    {
+      "id": "Balustrade_East",
+      "faces": 90,
+      "triangles": 180,
+      "materialSlots": [
+        "stone"
+      ]
+    },
+    {
+      "id": "Balustrade_Front",
+      "faces": 692,
+      "triangles": 1928,
+      "materialSlots": [
+        "stone"
+      ]
+    },
+    {
+      "id": "Balustrade_West",
+      "faces": 90,
+      "triangles": 180,
+      "materialSlots": [
+        "stone"
+      ]
+    },
+    {
+      "id": "Central_Blank_Panel",
+      "faces": 12,
+      "triangles": 24,
+      "materialSlots": [
+        "stone",
+        "wood_red"
+      ]
+    },
+    {
+      "id": "Columns_Back",
+      "faces": 308,
+      "triangles": 968,
+      "materialSlots": [
+        "stone",
+        "wood_red"
+      ]
+    },
+    {
+      "id": "Columns_Front",
+      "faces": 308,
+      "triangles": 968,
+      "materialSlots": [
+        "stone",
+        "wood_red"
+      ]
+    },
+    {
+      "id": "Doors_Back",
+      "faces": 780,
+      "triangles": 1560,
+      "materialSlots": [
+        "window",
+        "wood_red"
+      ]
+    },
+    {
+      "id": "Doors_Front",
+      "faces": 780,
+      "triangles": 1560,
+      "materialSlots": [
+        "window",
+        "wood_red"
+      ]
+    },
+    {
+      "id": "Gable_East",
+      "faces": 1,
+      "triangles": 1,
+      "materialSlots": [
+        "wood_red"
+      ]
+    },
+    {
+      "id": "Gable_West",
+      "faces": 1,
+      "triangles": 1,
+      "materialSlots": [
+        "wood_red"
+      ]
+    },
+    {
+      "id": "Hall_Shell",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "wood_red"
+      ]
+    },
+    {
+      "id": "Painted_Beams_Back",
+      "faces": 636,
+      "triangles": 1272,
+      "materialSlots": [
+        "paint_blue",
+        "paint_green",
+        "ridge_gold"
+      ]
+    },
+    {
+      "id": "Painted_Beams_Front",
+      "faces": 636,
+      "triangles": 1272,
+      "materialSlots": [
+        "paint_blue",
+        "paint_green",
+        "ridge_gold"
+      ]
+    },
+    {
+      "id": "Plaza",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "paving"
+      ]
+    },
+    {
+      "id": "Ridge_Crown",
+      "faces": 66,
+      "triangles": 132,
+      "materialSlots": [
+        "ridge_gold"
+      ]
+    },
+    {
+      "id": "Roof_Lower",
+      "faces": 5408,
+      "triangles": 10816,
+      "materialSlots": [
+        "tile_gold",
+        "ridge_gold"
+      ]
+    },
+    {
+      "id": "Roof_Upper",
+      "faces": 4704,
+      "triangles": 9408,
+      "materialSlots": [
+        "tile_gold",
+        "ridge_gold"
+      ]
+    },
+    {
+      "id": "Terrace_Deck",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "stone"
+      ]
+    },
+    {
+      "id": "Upper_Clerestory",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "wood_red"
+      ]
+    },
+    {
+      "id": "Wall_Pier_0",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "wall_red"
+      ]
+    },
+    {
+      "id": "Wall_Pier_1",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "wall_red"
+      ]
+    },
+    {
+      "id": "Wall_Pier_2",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "wall_red"
+      ]
+    },
+    {
+      "id": "Wall_Pier_3",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "wall_red"
+      ]
+    },
+    {
+      "id": "Wall_Pier_4",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "wall_red"
+      ]
+    },
+    {
+      "id": "Wall_Pier_5",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "wall_red"
+      ]
+    }
+  ],
+  "ownership": "Each primitive assigned once. No equivalent pieces assumed.",
+  "simplification": "Approximate non-survey model; blank central panel, no signage or portrait; no bridges or huabiao.",
+  "validation": {
+    "sourceTriangles": 33298,
+    "assemblyTriangles": 33298,
+    "relativeSurfaceErrorByMaterial": {
+      "wood_red": 6.7686310170492495e-15,
+      "window": 0.0,
+      "wall_red": 9.420559107635098e-16,
+      "tile_gold": 0.0,
+      "stone": 2.6330682045769233e-14,
+      "ridge_gold": 3.681791332029468e-15,
+      "paving": 0.0,
+      "paint_green": 0.0,
+      "paint_blue": 0.0
+    },
+    "uniqueRendererOwners": 31,
+    "passed": true
+  }
+}

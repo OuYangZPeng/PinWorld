@@ -1,0 +1,99 @@
+00:00.797  blend            | Read blend: "D:\UE5\Project\PinWorld\Art\Tiananmen\Tiananmen_Assembly.blend"
+D:\UE5\Project\PinWorld\Art\Tiananmen\export_assembly_unreal.py:shared_export:19: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_00_Arch_Vault_0.fbx'
+export finished in 0.0052 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_01_Arch_Vault_1.fbx'
+export finished in 0.0051 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_02_Arch_Vault_2.fbx'
+export finished in 0.0046 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_03_Arch_Vault_3.fbx'
+export finished in 0.0055 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_04_Arch_Vault_4.fbx'
+export finished in 0.0043 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_05_Balustrade_Back.fbx'
+export finished in 0.0080 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_06_Balustrade_East.fbx'
+export finished in 0.0053 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_07_Balustrade_Front.fbx'
+export finished in 0.0079 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_08_Balustrade_West.fbx'
+export finished in 0.0044 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_09_Central_Blank_Panel.fbx'
+export finished in 0.0084 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_10_Columns_Back.fbx'
+export finished in 0.0074 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_11_Columns_Front.fbx'
+export finished in 0.0065 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_12_Doors_Back.fbx'
+export finished in 0.0074 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_13_Doors_Front.fbx'
+export finished in 0.0081 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_14_Gable_East.fbx'
+export finished in 0.0038 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_15_Gable_West.fbx'
+export finished in 0.0043 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_16_Hall_Shell.fbx'
+export finished in 0.0045 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_17_Painted_Beams_Back.fbx'
+export finished in 0.0073 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_18_Painted_Beams_Front.fbx'
+export finished in 0.0075 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_19_Plaza.fbx'
+export finished in 0.0041 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_20_Ridge_Crown.fbx'
+export finished in 0.0050 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_21_Roof_Lower.fbx'
+export finished in 0.0252 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_22_Roof_Upper.fbx'
+export finished in 0.0226 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_23_Terrace_Deck.fbx'
+export finished in 0.0050 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_24_Upper_Clerestory.fbx'
+export finished in 0.0043 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_25_Wall_Pier_0.fbx'
+export finished in 0.0046 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_26_Wall_Pier_1.fbx'
+export finished in 0.0050 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_27_Wall_Pier_2.fbx'
+export finished in 0.0044 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_28_Wall_Pier_3.fbx'
+export finished in 0.0045 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_29_Wall_Pier_4.fbx'
+export finished in 0.0043 sec.
+
+FBX export starting... 'D:\\UE5\\Project\\PinWorld\\Art\\Tiananmen\\AssemblyExports\\SM_30_Wall_Pier_5.fbx'
+export finished in 0.0048 sec.
+TIANANMEN_EXPORT_PASS 31 9 33298
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit

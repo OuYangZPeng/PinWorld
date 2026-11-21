@@ -1,0 +1,278 @@
+{
+  "sourceBuilderSha256": "951d79b7c486a9763ed5f5eeab244cefb9c83db1d8a9b49abc7d50305452e635",
+  "sourceBlendSha256": "f656c73e22d7aec5ecb2ae154b8706dbd70e3aecff68e9e9f7e0b48e2a015935",
+  "sourcePrimitiveFaces": 419099,
+  "parts": [
+    {
+      "id": "Base_1",
+      "faces": 4042,
+      "triangles": 9228,
+      "materialSlots": [
+        "marble",
+        "carving"
+      ]
+    },
+    {
+      "id": "Base_2",
+      "faces": 4042,
+      "triangles": 9228,
+      "materialSlots": [
+        "marble",
+        "carving"
+      ]
+    },
+    {
+      "id": "Base_3",
+      "faces": 4042,
+      "triangles": 9228,
+      "materialSlots": [
+        "marble",
+        "carving"
+      ]
+    },
+    {
+      "id": "Bracket_1",
+      "faces": 6056,
+      "triangles": 12880,
+      "materialSlots": [
+        "red",
+        "paint_blue",
+        "gold",
+        "teal"
+      ]
+    },
+    {
+      "id": "Bracket_2",
+      "faces": 6056,
+      "triangles": 12880,
+      "materialSlots": [
+        "red",
+        "paint_blue",
+        "gold",
+        "teal"
+      ]
+    },
+    {
+      "id": "Bracket_3",
+      "faces": 6056,
+      "triangles": 12880,
+      "materialSlots": [
+        "red",
+        "paint_blue",
+        "gold",
+        "teal"
+      ]
+    },
+    {
+      "id": "Finial",
+      "faces": 2500,
+      "triangles": 5192,
+      "materialSlots": [
+        "gold"
+      ]
+    },
+    {
+      "id": "ImperialWay_South",
+      "faces": 933,
+      "triangles": 1926,
+      "materialSlots": [
+        "carving",
+        "marble"
+      ]
+    },
+    {
+      "id": "Plaque",
+      "faces": 1827,
+      "triangles": 2444,
+      "materialSlots": [
+        "gold",
+        "paint_blue"
+      ]
+    },
+    {
+      "id": "Plaza_OuterPavers",
+      "faces": 11112,
+      "triangles": 22224,
+      "materialSlots": [
+        "paving_alt",
+        "paving"
+      ]
+    },
+    {
+      "id": "Plaza_Substrate",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "grout"
+      ]
+    },
+    {
+      "id": "Rail_1",
+      "faces": 11384,
+      "triangles": 33200,
+      "materialSlots": [
+        "carving",
+        "marble"
+      ]
+    },
+    {
+      "id": "Rail_2",
+      "faces": 9432,
+      "triangles": 27504,
+      "materialSlots": [
+        "carving",
+        "marble"
+      ]
+    },
+    {
+      "id": "Rail_3",
+      "faces": 7480,
+      "triangles": 21808,
+      "materialSlots": [
+        "carving",
+        "marble"
+      ]
+    },
+    {
+      "id": "Roof_1",
+      "faces": 122674,
+      "triangles": 250844,
+      "materialSlots": [
+        "tile",
+        "tile_edge",
+        "gold",
+        "ridge"
+      ]
+    },
+    {
+      "id": "Roof_2",
+      "faces": 112946,
+      "triangles": 230748,
+      "materialSlots": [
+        "tile",
+        "tile_edge",
+        "gold",
+        "ridge"
+      ]
+    },
+    {
+      "id": "Roof_3",
+      "faces": 103218,
+      "triangles": 210652,
+      "materialSlots": [
+        "tile",
+        "tile_edge",
+        "gold",
+        "ridge"
+      ]
+    },
+    {
+      "id": "Stairs_East",
+      "faces": 240,
+      "triangles": 528,
+      "materialSlots": [
+        "marble",
+        "carving"
+      ]
+    },
+    {
+      "id": "Stairs_North",
+      "faces": 240,
+      "triangles": 528,
+      "materialSlots": [
+        "marble",
+        "carving"
+      ]
+    },
+    {
+      "id": "Stairs_South",
+      "faces": 240,
+      "triangles": 528,
+      "materialSlots": [
+        "marble",
+        "carving"
+      ]
+    },
+    {
+      "id": "Stairs_West",
+      "faces": 240,
+      "triangles": 528,
+      "materialSlots": [
+        "marble",
+        "carving"
+      ]
+    },
+    {
+      "id": "Wall_1",
+      "faces": 1808,
+      "triangles": 3632,
+      "materialSlots": [
+        "carving",
+        "red_dark",
+        "red",
+        "gold",
+        "shadow"
+      ]
+    },
+    {
+      "id": "Wall_2",
+      "faces": 1728,
+      "triangles": 3552,
+      "materialSlots": [
+        "carving",
+        "red_dark",
+        "red",
+        "gold",
+        "shadow"
+      ]
+    },
+    {
+      "id": "Wall_3",
+      "faces": 1640,
+      "triangles": 3464,
+      "materialSlots": [
+        "carving",
+        "red_dark",
+        "red",
+        "gold",
+        "shadow"
+      ]
+    },
+    {
+      "id": "Wall_4",
+      "faces": 1728,
+      "triangles": 3552,
+      "materialSlots": [
+        "carving",
+        "red_dark",
+        "red",
+        "gold",
+        "shadow"
+      ]
+    }
+  ],
+  "adjustment": "Plaza substrate + outer pavers, not fabricated inner paving ring. Hall circular shell caps triangulated without added cut faces.",
+  "equivalence": "Four cardinal stairs are identical under quarter-turn rotation; imperial way remains separate. Walls are not equivalent due to shell cap partition.",
+  "validation": {
+    "sourceTriangles": 889190,
+    "assemblyTriangles": 889190,
+    "relativeSurfaceErrorByMaterial": {
+      "gold": 3.007534280885793e-15,
+      "marble": 3.4271527620221087e-13,
+      "carving": 2.314542437561291e-09,
+      "paint_blue": 1.5221178437739096e-14,
+      "paving_alt": 0.0,
+      "paving": 0.0,
+      "grout": 0.0,
+      "tile_edge": 3.8752401394061404e-13,
+      "tile": 9.363507127175627e-15,
+      "teal": 3.698202632244879e-15,
+      "ridge": 1.1504286664148438e-14,
+      "red": 4.523572275018366e-15,
+      "shadow": 2.726302613843321e-16,
+      "red_dark": 2.0693260647277722e-08
+    },
+    "uniqueRendererOwners": 25,
+    "passed": true
+  }
+}

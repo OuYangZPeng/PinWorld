@@ -1,0 +1,357 @@
+{
+  "sourceBuilderSha256": "31cc79fedd1f92099b101b72446797f9a07e2c605baaadf450f3feb65ab22599",
+  "sourceBlendSha256": "fa9ae6b0a2038a27eff92afbf8e256af612130d906fb003f544c5110c8760ef5",
+  "sourcePrimitiveFaces": 291119,
+  "parts": [
+    {
+      "id": "Balustrade_1",
+      "faces": 13702,
+      "triangles": 28924,
+      "materialSlots": [
+        "stone_light",
+        "stone"
+      ]
+    },
+    {
+      "id": "Balustrade_2",
+      "faces": 11692,
+      "triangles": 24664,
+      "materialSlots": [
+        "stone_light",
+        "stone"
+      ]
+    },
+    {
+      "id": "Balustrade_3",
+      "faces": 10218,
+      "triangles": 21540,
+      "materialSlots": [
+        "stone_light",
+        "stone"
+      ]
+    },
+    {
+      "id": "Columns_East",
+      "faces": 190,
+      "triangles": 580,
+      "materialSlots": [
+        "stone_light",
+        "red",
+        "teal"
+      ]
+    },
+    {
+      "id": "Columns_North",
+      "faces": 624,
+      "triangles": 1920,
+      "materialSlots": [
+        "stone_light",
+        "red",
+        "gold",
+        "teal"
+      ]
+    },
+    {
+      "id": "Columns_South",
+      "faces": 624,
+      "triangles": 1920,
+      "materialSlots": [
+        "stone_light",
+        "red",
+        "gold",
+        "teal"
+      ]
+    },
+    {
+      "id": "Columns_West",
+      "faces": 190,
+      "triangles": 580,
+      "materialSlots": [
+        "stone_light",
+        "red",
+        "teal"
+      ]
+    },
+    {
+      "id": "Courtyard_Vats",
+      "faces": 192,
+      "triangles": 600,
+      "materialSlots": [
+        "stone_light",
+        "bronze",
+        "gold",
+        "dark"
+      ]
+    },
+    {
+      "id": "Doors_North",
+      "faces": 8400,
+      "triangles": 16800,
+      "materialSlots": [
+        "darkred",
+        "dark",
+        "red",
+        "gold"
+      ]
+    },
+    {
+      "id": "Doors_South",
+      "faces": 8400,
+      "triangles": 16800,
+      "materialSlots": [
+        "darkred",
+        "dark",
+        "red",
+        "gold"
+      ]
+    },
+    {
+      "id": "Dougong_Brackets",
+      "faces": 2448,
+      "triangles": 4896,
+      "materialSlots": [
+        "teal",
+        "gold"
+      ]
+    },
+    {
+      "id": "Hall_Platform",
+      "faces": 12,
+      "triangles": 24,
+      "materialSlots": [
+        "stone_light",
+        "darkred"
+      ]
+    },
+    {
+      "id": "Hall_WallShell",
+      "faces": 6,
+      "triangles": 12,
+      "materialSlots": [
+        "red"
+      ]
+    },
+    {
+      "id": "Imperial_Ramp",
+      "faces": 1377,
+      "triangles": 2838,
+      "materialSlots": [
+        "stone",
+        "stone_light"
+      ]
+    },
+    {
+      "id": "Incense_Burners",
+      "faces": 1048,
+      "triangles": 2736,
+      "materialSlots": [
+        "stone_light",
+        "bronze",
+        "gold"
+      ]
+    },
+    {
+      "id": "Painted_Beams",
+      "faces": 310,
+      "triangles": 620,
+      "materialSlots": [
+        "teal",
+        "gold",
+        "blue"
+      ]
+    },
+    {
+      "id": "Plaque",
+      "faces": 1834,
+      "triangles": 2460,
+      "materialSlots": [
+        "gold",
+        "blue"
+      ]
+    },
+    {
+      "id": "Plaza",
+      "faces": 18678,
+      "triangles": 37356,
+      "materialSlots": [
+        "stone_dark",
+        "paving",
+        "stone"
+      ]
+    },
+    {
+      "id": "Ridge_Ornaments_Lower",
+      "faces": 6426,
+      "triangles": 13116,
+      "materialSlots": [
+        "gold"
+      ]
+    },
+    {
+      "id": "Ridge_Ornaments_Upper",
+      "faces": 6426,
+      "triangles": 13116,
+      "materialSlots": [
+        "gold"
+      ]
+    },
+    {
+      "id": "Roof_Lower",
+      "faces": 103276,
+      "triangles": 208080,
+      "materialSlots": [
+        "tile4",
+        "tile5",
+        "tile3",
+        "tile1",
+        "tile0",
+        "tile2",
+        "gold",
+        "darkred",
+        "teal"
+      ]
+    },
+    {
+      "id": "Roof_Upper",
+      "faces": 93700,
+      "triangles": 188784,
+      "materialSlots": [
+        "tile3",
+        "tile2",
+        "tile0",
+        "tile1",
+        "tile5",
+        "tile4",
+        "gold",
+        "darkred",
+        "teal"
+      ]
+    },
+    {
+      "id": "Stairs_East",
+      "faces": 144,
+      "triangles": 288,
+      "materialSlots": [
+        "stone_light"
+      ]
+    },
+    {
+      "id": "Stairs_Front_Center",
+      "faces": 204,
+      "triangles": 456,
+      "materialSlots": [
+        "stone_light"
+      ]
+    },
+    {
+      "id": "Stairs_Front_East",
+      "faces": 204,
+      "triangles": 456,
+      "materialSlots": [
+        "stone_light"
+      ]
+    },
+    {
+      "id": "Stairs_Front_West",
+      "faces": 204,
+      "triangles": 456,
+      "materialSlots": [
+        "stone_light"
+      ]
+    },
+    {
+      "id": "Stairs_West",
+      "faces": 144,
+      "triangles": 288,
+      "materialSlots": [
+        "stone_light"
+      ]
+    },
+    {
+      "id": "Terrace_1",
+      "faces": 180,
+      "triangles": 360,
+      "materialSlots": [
+        "stone",
+        "stone_light",
+        "stone_dark"
+      ]
+    },
+    {
+      "id": "Terrace_2",
+      "faces": 162,
+      "triangles": 324,
+      "materialSlots": [
+        "stone",
+        "stone_light",
+        "stone_dark"
+      ]
+    },
+    {
+      "id": "Terrace_3",
+      "faces": 150,
+      "triangles": 300,
+      "materialSlots": [
+        "stone",
+        "stone_light",
+        "stone_dark"
+      ]
+    },
+    {
+      "id": "Upper_Clerestory",
+      "faces": 768,
+      "triangles": 1536,
+      "materialSlots": [
+        "red",
+        "teal",
+        "gold",
+        "blue"
+      ]
+    },
+    {
+      "id": "Windows_East",
+      "faces": 504,
+      "triangles": 1008,
+      "materialSlots": [
+        "dark",
+        "gold"
+      ]
+    },
+    {
+      "id": "Windows_West",
+      "faces": 504,
+      "triangles": 1008,
+      "materialSlots": [
+        "dark",
+        "gold"
+      ]
+    }
+  ],
+  "equivalence": "None: no equivalence assumed for asymmetric rectangular assemblies.",
+  "ownership": "Every source primitive has exactly one owner; font converted once. No added or removed surfaces.",
+  "validation": {
+    "sourceTriangles": 594846,
+    "assemblyTriangles": 594846,
+    "relativeSurfaceErrorByMaterial": {
+      "Gilded architectural details": 5.398677003849857e-14,
+      "Amber glazed tile 05": 0.0,
+      "Amber glazed tile 04": 0.0,
+      "Amber glazed tile 03": 0.0,
+      "Amber glazed tile 02": 0.0,
+      "Amber glazed tile 01": 0.0,
+      "Amber glazed tile 00": 0.0,
+      "Blue green painted beams": 1.5977780410539382e-16,
+      "Carved white marble": 1.1861397755603955e-13,
+      "Marble joints": 0.0,
+      "Warm white marble": 5.3339487703779114e-14,
+      "Vermilion lacquer": 2.4974157455980466e-14,
+      "Courtyard grey stone": 0.0,
+      "Deep red framing": 1.091929402938496e-15,
+      "Interior shadow": 1.162117588928395e-15,
+      "Patinated bronze": 4.080293337467813e-15,
+      "Azurite blue details": 4.201566867829642e-16
+    },
+    "uniqueRendererOwners": 33,
+    "passed": true
+  }
+}

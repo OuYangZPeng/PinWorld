@@ -1,0 +1,85 @@
+Log started at 11/21/2026 16:28:02 (2026-11-21T08:28:02Z)
+Resolved project argument D:\UE5\Project\PinWorld\PinWorld.uproject to D:\UE5\Project\PinWorld\PinWorld.uproject
+No config file at C:\ProgramData\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\ouyangzengpeng\AppData\Local\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+No config file at C:\Users\ouyangzengpeng\Documents\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Configuration will be read from:
+  C:\Users\ouyangzengpeng\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (D:\UE5\Project\PinWorld\Intermediate\Build\XmlConfigCache.bin): C:\Users\ouyangzengpeng\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (D:\UE5\Project\PinWorld\Intermediate\Build\XmlConfigCache.bin): D:\UE5\Project\PinWorld\Saved\UnrealBuildTool\BuildConfiguration.xml
+Reading configuration file from cache (D:\UE5\Project\PinWorld\Intermediate\Build\XmlConfigCache.bin): C:\Users\ouyangzengpeng\AppData\Local\UnrealEngine\Intermediate\Build\UnrealBuildTool.Env.BuildConfiguration.xml
+Log file: D:\UE5\Project\PinWorld\Build\probe_ubt.log
+
+Setting temp directory to 'C:\Users\ouyangzengpeng\AppData\Local\Temp\UnrealBuildTool\4529d6b0'
+    Registering build platform: UnrealBuildTool.AndroidPlatformFactory
+Android Installed SDK(s): MinVersion_Sdk=r25b, MaxVersion_Sdk=r29, CurrentVersion_Sdk=r27c, Version_AutoSdk=r27c, CurrentVersion_AutoSdk=
+        Registering build platform: Android - buildable: True
+    Registering build platform: UnrealBuildTool.IOSPlatformFactory
+    Registering build platform: UnrealBuildTool.LinuxPlatformFactory
+    Registering build platform: UnrealBuildTool.MacPlatformFactory
+    Registering build platform: UnrealBuildTool.TVOSPlatformFactory
+    Registering build platform: UnrealBuildTool.WindowsPlatformFactory
+Found Windows 10 SDK root at C:\Program Files\Windows Kits\10 (1)
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+Found Windows 10 SDK version 10.0.22621.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.22621.0 at C:\Program Files (x86)\Windows Kits\10
+Found Windows 10 SDK version 10.0.26100.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.26100.0 at C:\Program Files (x86)\Windows Kits\10
+Win64 Installed SDK(s): MinVersion_Sdk=10.0.19041.0, MaxVersion_Sdk=10.9.99999.0, CurrentVersion_Sdk=10.0.22621.0, Version_AutoSdk=10.0.22621.0, CurrentVersion_AutoSdk=
+        Registering build platform: Win64 - buildable: True
+    Registering build platform: UnrealBuildTool.VisionOSPlatformFactory
+Command line: D:\UE5\UE_5.6\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll PinWorld Android Development -Project=D:\UE5\Project\PinWorld\PinWorld.uproject -NoHotReload -log=D:\UE5\Project\PinWorld\Build\probe_ubt.log
+Creating makefile for PinWorld (no existing makefile)
+Skipping D:\UE5\UE_5.6\Engine\Intermediate\Build\BuildRules\UE5Rules.dll: File is installed
+Skipping D:\UE5\UE_5.6\Engine\Intermediate\Build\BuildRules\UE5ProgramRules.dll: File is installed
+Building UnrealGame - PinWorld - Android - Development
+Library 'D:\UE5\UE_5.6\Engine\Plugins\Compression\OodleNetwork\Source\..\Sdks\2.9.13\lib\Android\arm64-v8a/liboo2netandroid.a' was not resolvable to a file when used in Module 'OodleNetworkHandlerComponent', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'D:\UE5\UE_5.6\Engine\Plugins\Compression\OodleNetwork\Source\..\Sdks\2.9.13\lib\Android\armeabi-v7a/liboo2netandroid.a' was not resolvable to a file when used in Module 'OodleNetworkHandlerComponent', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'D:\UE5\UE_5.6\Engine\Plugins\Compression\OodleNetwork\Source\..\Sdks\2.9.13\lib\Android\x86/liboo2netandroid.a' was not resolvable to a file when used in Module 'OodleNetworkHandlerComponent', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'D:\UE5\UE_5.6\Engine\Plugins\Compression\OodleNetwork\Source\..\Sdks\2.9.13\lib\Android\x86_64/liboo2netandroid.a' was not resolvable to a file when used in Module 'OodleNetworkHandlerComponent', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'D:\UE5\UE_5.6\Engine\Plugins\Runtime\GooglePAD\Source\GooglePAD\..\ThirdParty\play-core-native-sdk\libs\arm64-v8a\ndk21.4.7075529\c++_static\libplaycore_static.a' was not resolvable to a file when used in Module 'GooglePAD', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'D:\UE5\UE_5.6\Engine\Plugins\Runtime\GooglePAD\Source\GooglePAD\..\ThirdParty\play-core-native-sdk\libs\x86_64\ndk21.4.7075529\c++_static\libplaycore_static.a' was not resolvable to a file when used in Module 'GooglePAD', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'D:\UE5\UE_5.6\Engine\Source\ThirdParty\BLAKE3\1.3.1\lib\Android\ARM64\Release\libBLAKE3.a' was not resolvable to a file when used in Module 'BLAKE3', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'D:\UE5\UE_5.6\Engine\Source\ThirdParty\BLAKE3\1.3.1\lib\Android\x64\Release\libBLAKE3.a' was not resolvable to a file when used in Module 'BLAKE3', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'D:\UE5\UE_5.6\Engine\Source\Runtime\OodleDataCompression\Sdks\2.9.13\lib\Android\arm64-v8a/liboo2coreandroid.a' was not resolvable to a file when used in Module 'OodleDataCompression', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'D:\UE5\UE_5.6\Engine\Source\Runtime\OodleDataCompression\Sdks\2.9.13\lib\Android\armeabi-v7a/liboo2coreandroid.a' was not resolvable to a file when used in Module 'OodleDataCompression', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'D:\UE5\UE_5.6\Engine\Source\Runtime\OodleDataCompression\Sdks\2.9.13\lib\Android\x86/liboo2coreandroid.a' was not resolvable to a file when used in Module 'OodleDataCompression', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Library 'D:\UE5\UE_5.6\Engine\Source\Runtime\OodleDataCompression\Sdks\2.9.13\lib\Android\x86_64/liboo2coreandroid.a' was not resolvable to a file when used in Module 'OodleDataCompression', assuming it is a filename and will search library paths for it. This is slow and dependency checking will not work for it. Please update reference to be fully qualified alternatively use PublicSystemLibraryPaths if you do intended to use this slow path to suppress this warning. 
+Could not find definition for module 'cxademangle', (referenced via Target -> Launch.Build.cs -> SessionServices.Build.cs -> Core.Build.cs)
+CompilationResultException: Could not find definition for module 'cxademangle', (referenced via Target -> Launch.Build.cs -> SessionServices.Build.cs -> Core.Build.cs)
+   at UnrealBuildTool.RulesAssembly.CreateModuleRules(String ModuleName, ReadOnlyTargetRules Target, String ReferenceChain, ILogger Logger)
+   at UnrealBuildTool.RulesAssembly.CreateModuleRules(String ModuleName, ReadOnlyTargetRules Target, String ReferenceChain, ILogger Logger)
+   at UnrealBuildTool.RulesAssembly.CreateModuleRules(String ModuleName, ReadOnlyTargetRules Target, String ReferenceChain, ILogger Logger)
+   at UnrealBuildTool.UEBuildTarget.CreateModuleRulesAndSetDefaults(String ModuleName, String ReferenceChain, ILogger Logger)
+   at UnrealBuildTool.UEBuildTarget.FindOrCreateModuleByName(String ModuleName, String ReferenceChain, ILogger Logger)
+   at UnrealBuildTool.UEBuildTarget.<>c__DisplayClass73_0.<PreBuildSetup>b__0(String Name, String RefChain)
+   at UnrealBuildTool.UEBuildModule.RecursivelyCreateModulesByName(List`1 ModuleNames, List`1& Modules, Boolean& bDependsOnVerse, CreateModuleDelegate CreateModule, String ReferenceChain, List`1 ReferenceStack, ILogger Logger)
+   at UnrealBuildTool.UEBuildModule.RecursivelyCreateModules(CreateModuleDelegate CreateModule, String ReferenceChain, List`1 ReferenceStack, ILogger Logger)
+   at UnrealBuildTool.UEBuildModule.RecursivelyCreateModulesByName(List`1 ModuleNames, List`1& Modules, Boolean& bDependsOnVerse, CreateModuleDelegate CreateModule, String ReferenceChain, List`1 ReferenceStack, ILogger Logger)
+   at UnrealBuildTool.UEBuildModule.RecursivelyCreateModules(CreateModuleDelegate CreateModule, String ReferenceChain, List`1 ReferenceStack, ILogger Logger)
+   at UnrealBuildTool.UEBuildModule.RecursivelyCreateModulesByName(List`1 ModuleNames, List`1& Modules, Boolean& bDependsOnVerse, CreateModuleDelegate CreateModule, String ReferenceChain, List`1 ReferenceStack, ILogger Logger)
+   at UnrealBuildTool.UEBuildModule.RecursivelyCreateModules(CreateModuleDelegate CreateModule, String ReferenceChain, List`1 ReferenceStack, ILogger Logger)
+   at UnrealBuildTool.UEBuildModule.RecursivelyCreateModules(CreateModuleDelegate CreateModule, String ReferenceChain, ILogger Logger)
+   at UnrealBuildTool.UEBuildBinary.CreateAllDependentModules(CreateModuleDelegate CreateModule, ILogger Logger)
+   at UnrealBuildTool.UEBuildTarget.PreBuildSetup(ILogger Logger)
+   at UnrealBuildTool.UEBuildTarget.Create(TargetDescriptor Descriptor, Boolean bSkipRulesCompile, Boolean bForceRulesCompile, Boolean bUsePrecompiled, UnrealIntermediateEnvironment IntermediateEnvironment, ILogger Logger)
+   at UnrealBuildTool.UEBuildTarget.Create(TargetDescriptor Descriptor, BuildConfiguration BuildConfiguration, ILogger Logger)
+   at UnrealBuildTool.BuildMode.CreateMakefileAsync(BuildConfiguration BuildConfiguration, TargetDescriptor TargetDescriptor, ISourceFileWorkingSet WorkingSet, ILogger Logger)
+   at UnrealBuildTool.BuildMode.BuildAsync(List`1 TargetDescriptors, BuildConfiguration BuildConfiguration, ISourceFileWorkingSet WorkingSet, BuildOptions Options, FileReference WriteOutdatedActionsFile, ILogger Logger, Boolean bSkipPreBuildTargets, String ActionTypeFilter)
+   at UnrealBuildTool.BuildMode.ExecuteAsync(CommandLineArguments Arguments, ILogger Logger)
+   at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray)
+WriteFileIfChanged() wrote 0 changed files of 1 requested writes.
+
+Timeline:
+[  0.000]  +0.487 Main
+   0.074          [  0.073]  +0.063 Apply XmlConfig
+   0.199          [  0.198]  +0.288 RegisterPlatforms
+[  0.487] +13.837 BuildMode
+   0.551          [  0.063] +13.766 Creating MakeFile for PinWorld
+  14.318          [ 13.830]  +0.006 Saving caches
+[ 14.325]  +0.549 <unknown>
+[ 14.874]  +0.000 TelemetryService.FlushEvents
+[ 14.876]
+
+Result: Failed (RulesError)
+Total execution time: 14.88 seconds

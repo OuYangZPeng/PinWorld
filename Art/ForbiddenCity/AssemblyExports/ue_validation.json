@@ -1,0 +1,596 @@
+{
+  "status": "PASS",
+  "map": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Maps/TaiheHallAssemblyPreview",
+  "mesh_count": 33,
+  "material_count": 17,
+  "slot_count": 92,
+  "objects": [
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_00_Balustrade_1.SM_00_Balustrade_1",
+      "size_cm": [
+        7046.00048828125,
+        4846.00048828125,
+        145.99999237060547
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Warm_white_marble.M_Warm_white_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_01_Balustrade_2.SM_01_Balustrade_2",
+      "size_cm": [
+        6346.00048828125,
+        4146.00048828125,
+        145.99998474121094
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Warm_white_marble.M_Warm_white_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_02_Balustrade_3.SM_02_Balustrade_3",
+      "size_cm": [
+        5646.0,
+        3446.00048828125,
+        146.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Warm_white_marble.M_Warm_white_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_03_Columns_East.SM_03_Columns_East",
+      "size_cm": [
+        116.0,
+        1655.9999389648438,
+        663.5
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Vermilion_lacquer.M_Vermilion_lacquer",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Blue_green_painted_beams.M_Blue_green_painted_beams"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_04_Columns_North.SM_04_Columns_North",
+      "size_cm": [
+        4516.0,
+        116.0003662109375,
+        663.5
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Vermilion_lacquer.M_Vermilion_lacquer",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Blue_green_painted_beams.M_Blue_green_painted_beams"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_05_Columns_South.SM_05_Columns_South",
+      "size_cm": [
+        4516.0,
+        116.0003662109375,
+        663.5
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Vermilion_lacquer.M_Vermilion_lacquer",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Blue_green_painted_beams.M_Blue_green_painted_beams"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_06_Columns_West.SM_06_Columns_West",
+      "size_cm": [
+        116.0,
+        1655.9999389648438,
+        663.5
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Vermilion_lacquer.M_Vermilion_lacquer",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Blue_green_painted_beams.M_Blue_green_painted_beams"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_07_Courtyard_Vats.SM_07_Courtyard_Vats",
+      "size_cm": [
+        3593.999755859375,
+        194.0003662109375,
+        128.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Patinated_bronze.M_Patinated_bronze",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Interior_shadow.M_Interior_shadow"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_08_Doors_North.SM_08_Doors_North",
+      "size_cm": [
+        3984.0,
+        46.5003662109375,
+        542.0000915527344
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Deep_red_framing.M_Deep_red_framing",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Interior_shadow.M_Interior_shadow",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Vermilion_lacquer.M_Vermilion_lacquer",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_09_Doors_South.SM_09_Doors_South",
+      "size_cm": [
+        3984.0,
+        46.5003662109375,
+        542.0000915527344
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Deep_red_framing.M_Deep_red_framing",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Interior_shadow.M_Interior_shadow",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Vermilion_lacquer.M_Vermilion_lacquer",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_10_Dougong_Brackets.SM_10_Dougong_Brackets",
+      "size_cm": [
+        4528.0,
+        2506.000244140625,
+        65.25
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Blue_green_painted_beams.M_Blue_green_painted_beams",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_11_Hall_Platform.SM_11_Hall_Platform",
+      "size_cm": [
+        4700.0,
+        2560.00048828125,
+        52.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Deep_red_framing.M_Deep_red_framing"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_12_Hall_WallShell.SM_12_Hall_WallShell",
+      "size_cm": [
+        4060.0,
+        1750.0003662109375,
+        589.9999694824219
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Vermilion_lacquer.M_Vermilion_lacquer"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_13_Imperial_Ramp.SM_13_Imperial_Ramp",
+      "size_cm": [
+        294.00010681152344,
+        1050.91357421875,
+        377.00096130371094
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Warm_white_marble.M_Warm_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_14_Incense_Burners.SM_14_Incense_Burners",
+      "size_cm": [
+        5060.2373046875,
+        2202.00048828125,
+        203.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Patinated_bronze.M_Patinated_bronze",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_15_Painted_Beams.SM_15_Painted_Beams",
+      "size_cm": [
+        4580.0,
+        2600.00048828125,
+        126.00006103515625
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Blue_green_painted_beams.M_Blue_green_painted_beams",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Azurite_blue_details.M_Azurite_blue_details"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_16_Plaque.SM_16_Plaque",
+      "size_cm": [
+        400.0,
+        36.300048828125,
+        115.00006103515625
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Azurite_blue_details.M_Azurite_blue_details"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_17_Plaza.SM_17_Plaza",
+      "size_cm": [
+        12600.0009765625,
+        10600.0009765625,
+        71.39983987808228
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Marble_joints.M_Marble_joints",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Courtyard_grey_stone.M_Courtyard_grey_stone",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Warm_white_marble.M_Warm_white_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_18_Ridge_Ornaments_Lower.SM_18_Ridge_Ornaments_Lower",
+      "size_cm": [
+        5324.95556640625,
+        3045.947265625,
+        560.9473876953125
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_19_Ridge_Ornaments_Upper.SM_19_Ridge_Ornaments_Upper",
+      "size_cm": [
+        4825.26513671875,
+        2685.6455078125,
+        688.1368408203125
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_20_Roof_Lower.SM_20_Roof_Lower",
+      "size_cm": [
+        5332.0,
+        3052.00048828125,
+        520.46337890625
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_04.M_Amber_glazed_tile_04",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_05.M_Amber_glazed_tile_05",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_03.M_Amber_glazed_tile_03",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_01.M_Amber_glazed_tile_01",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_00.M_Amber_glazed_tile_00",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_02.M_Amber_glazed_tile_02",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Deep_red_framing.M_Deep_red_framing",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Blue_green_painted_beams.M_Blue_green_painted_beams"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_21_Roof_Upper.SM_21_Roof_Upper",
+      "size_cm": [
+        4832.0,
+        2692.00048828125,
+        655.179443359375
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_03.M_Amber_glazed_tile_03",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_02.M_Amber_glazed_tile_02",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_00.M_Amber_glazed_tile_00",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_01.M_Amber_glazed_tile_01",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_05.M_Amber_glazed_tile_05",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Amber_glazed_tile_04.M_Amber_glazed_tile_04",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Deep_red_framing.M_Deep_red_framing",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Blue_green_painted_beams.M_Blue_green_painted_beams"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_22_Stairs_East.SM_22_Stairs_East",
+      "size_cm": [
+        1014.999755859375,
+        600.0000915527344,
+        360.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_23_Stairs_Front_Center.SM_23_Stairs_Front_Center",
+      "size_cm": [
+        1232.0000610351562,
+        1040.9356689453125,
+        400.03668212890625
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_24_Stairs_Front_East.SM_24_Stairs_Front_East",
+      "size_cm": [
+        632.0001220703125,
+        1040.935546875,
+        400.03668212890625
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_25_Stairs_Front_West.SM_25_Stairs_Front_West",
+      "size_cm": [
+        632.0,
+        1040.9356689453125,
+        400.03668212890625
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_26_Stairs_West.SM_26_Stairs_West",
+      "size_cm": [
+        1014.999755859375,
+        600.0000915527344,
+        360.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_27_Terrace_1.SM_27_Terrace_1",
+      "size_cm": [
+        7060.00048828125,
+        4860.00048828125,
+        123.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Warm_white_marble.M_Warm_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Marble_joints.M_Marble_joints"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_28_Terrace_2.SM_28_Terrace_2",
+      "size_cm": [
+        6360.0,
+        4160.00048828125,
+        122.99999237060547
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Warm_white_marble.M_Warm_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Marble_joints.M_Marble_joints"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_29_Terrace_3.SM_29_Terrace_3",
+      "size_cm": [
+        5660.0,
+        3460.000244140625,
+        122.99998474121094
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Warm_white_marble.M_Warm_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Carved_white_marble.M_Carved_white_marble",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Marble_joints.M_Marble_joints"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_30_Upper_Clerestory.SM_30_Upper_Clerestory",
+      "size_cm": [
+        4320.00048828125,
+        2150.00048828125,
+        221.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Vermilion_lacquer.M_Vermilion_lacquer",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Blue_green_painted_beams.M_Blue_green_painted_beams",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Azurite_blue_details.M_Azurite_blue_details"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_31_Windows_East.SM_31_Windows_East",
+      "size_cm": [
+        17.5001220703125,
+        1535.0,
+        370.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Interior_shadow.M_Interior_shadow",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Meshes/SM_32_Windows_West.SM_32_Windows_West",
+      "size_cm": [
+        17.5001220703125,
+        1535.0,
+        370.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Interior_shadow.M_Interior_shadow",
+        "/Game/Environment/ForbiddenCity/TaiheHall/Assembly/Materials/M_Gilded_architectural_details.M_Gilded_architectural_details"
+      ]
+    }
+  ]
+}

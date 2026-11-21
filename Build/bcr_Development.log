@@ -1,0 +1,23 @@
+[wrapper] start 2026/11/21 ÷‹¡˘ 16:09:17.93 
+Running AutomationTool...
+Using bundled DotNet SDK version: 8.0.300 win-x64
+Starting AutomationTool...
+Parsing command line: BuildCookRun -project=D:\UE5\Project\PinWorld\PinWorld.uproject -noP4 -platform=Android -cookflavor=ASTC -clientconfig=Development -build -cook -stage -pak -package -archive -archivedirectory=D:\UE5\Project\PinWorld\Build\Android -unattended -utf8output -nocompileeditor -nodebuginfo
+Initializing script modules...
+Total script module initialization time: 0.37 s.
+Using F:\Visual Studio\2022\MSBuild\Current\Bin\MSBuild.exe
+Executing commands...
+Setting up ProjectParams for D:\UE5\Project\PinWorld\PinWorld.uproject
+********** BUILD COMMAND STARTED **********
+Running: D:\UE5\UE_5.6\Engine\Binaries\ThirdParty\DotNet\8.0.300\win-x64\dotnet.exe "D:\UE5\UE_5.6\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" PinWorld Android Development -Project=D:\UE5\Project\PinWorld\PinWorld.uproject -Manifest=D:\UE5\Project\PinWorld\Intermediate\Build\Manifest.xml  -remoteini="D:\UE5\Project\PinWorld"  -skipdeploy  -log="C:\Users\ouyangzengpeng\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE5+UE_5.6\UBA-PinWorld-Android-Development.txt"
+Log file: C:\Users\ouyangzengpeng\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE5+UE_5.6\UBA-PinWorld-Android-Development.txt
+Missing files required to build Android targets. Enable Android as an optional download component in the Epic Games Launcher.
+
+Result: Failed (OtherCompilationError)
+Total execution time: 0.71 seconds
+Took 0.93s to run dotnet.exe, ExitCode=6
+UnrealBuildTool failed. See log for more details. (C:\Users\ouyangzengpeng\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE5+UE_5.6\UBA-PinWorld-Android-Development.txt)
+AutomationTool executed for 0h 0m 6s
+AutomationTool exiting with ExitCode=6 (6)
+BUILD FAILED
+[wrapper] UAT exit=6 

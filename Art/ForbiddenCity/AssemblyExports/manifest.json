@@ -1,0 +1,1936 @@
+{
+  "unit_scale": 1.0,
+  "materials": {
+    "Amber glazed tile 00": {
+      "asset": "M_Amber_glazed_tile_00",
+      "color": [
+        0.699999988079071,
+        0.30000001192092896,
+        0.02800000086426735,
+        1.0
+      ],
+      "metallic": 0.1599999964237213,
+      "roughness": 0.28999999165534973
+    },
+    "Amber glazed tile 01": {
+      "asset": "M_Amber_glazed_tile_01",
+      "color": [
+        0.7250000238418579,
+        0.3179999887943268,
+        0.03400000184774399,
+        1.0
+      ],
+      "metallic": 0.1599999964237213,
+      "roughness": 0.28999999165534973
+    },
+    "Amber glazed tile 02": {
+      "asset": "M_Amber_glazed_tile_02",
+      "color": [
+        0.75,
+        0.335999995470047,
+        0.03999999910593033,
+        1.0
+      ],
+      "metallic": 0.1599999964237213,
+      "roughness": 0.28999999165534973
+    },
+    "Amber glazed tile 03": {
+      "asset": "M_Amber_glazed_tile_03",
+      "color": [
+        0.7749999761581421,
+        0.3540000021457672,
+        0.04600000008940697,
+        1.0
+      ],
+      "metallic": 0.1599999964237213,
+      "roughness": 0.28999999165534973
+    },
+    "Amber glazed tile 04": {
+      "asset": "M_Amber_glazed_tile_04",
+      "color": [
+        0.800000011920929,
+        0.3720000088214874,
+        0.052000001072883606,
+        1.0
+      ],
+      "metallic": 0.1599999964237213,
+      "roughness": 0.28999999165534973
+    },
+    "Amber glazed tile 05": {
+      "asset": "M_Amber_glazed_tile_05",
+      "color": [
+        0.824999988079071,
+        0.38999998569488525,
+        0.057999998331069946,
+        1.0
+      ],
+      "metallic": 0.1599999964237213,
+      "roughness": 0.28999999165534973
+    },
+    "Azurite blue details": {
+      "asset": "M_Azurite_blue_details",
+      "color": [
+        0.017999999225139618,
+        0.0949999988079071,
+        0.25,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.550000011920929
+    },
+    "Blue green painted beams": {
+      "asset": "M_Blue_green_painted_beams",
+      "color": [
+        0.017000000923871994,
+        0.1899999976158142,
+        0.20000000298023224,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.550000011920929
+    },
+    "Carved white marble": {
+      "asset": "M_Carved_white_marble",
+      "color": [
+        0.8799999952316284,
+        0.8600000143051147,
+        0.7699999809265137,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.550000011920929
+    },
+    "Courtyard grey stone": {
+      "asset": "M_Courtyard_grey_stone",
+      "color": [
+        0.3499999940395355,
+        0.3700000047683716,
+        0.36000001430511475,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.550000011920929
+    },
+    "Deep red framing": {
+      "asset": "M_Deep_red_framing",
+      "color": [
+        0.2199999988079071,
+        0.017999999225139618,
+        0.013000000268220901,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.550000011920929
+    },
+    "Gilded architectural details": {
+      "asset": "M_Gilded_architectural_details",
+      "color": [
+        0.8199999928474426,
+        0.44999998807907104,
+        0.07500000298023224,
+        1.0
+      ],
+      "metallic": 0.550000011920929,
+      "roughness": 0.30000001192092896
+    },
+    "Interior shadow": {
+      "asset": "M_Interior_shadow",
+      "color": [
+        0.02199999988079071,
+        0.014999999664723873,
+        0.012000000104308128,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.550000011920929
+    },
+    "Marble joints": {
+      "asset": "M_Marble_joints",
+      "color": [
+        0.38999998569488525,
+        0.4000000059604645,
+        0.3700000047683716,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.550000011920929
+    },
+    "Patinated bronze": {
+      "asset": "M_Patinated_bronze",
+      "color": [
+        0.10000000149011612,
+        0.17000000178813934,
+        0.11500000208616257,
+        1.0
+      ],
+      "metallic": 0.7200000286102295,
+      "roughness": 0.36000001430511475
+    },
+    "Vermilion lacquer": {
+      "asset": "M_Vermilion_lacquer",
+      "color": [
+        0.4300000071525574,
+        0.03200000151991844,
+        0.020999999716877937,
+        1.0
+      ],
+      "metallic": 0.07999999821186066,
+      "roughness": 0.3199999928474426
+    },
+    "Warm white marble": {
+      "asset": "M_Warm_white_marble",
+      "color": [
+        0.7400000095367432,
+        0.7200000286102295,
+        0.6499999761581421,
+        1.0
+      ],
+      "metallic": 0.0,
+      "roughness": 0.550000011920929
+    }
+  },
+  "objects": [
+    {
+      "name": "SM_00_Balustrade_1",
+      "source_name": "Balustrade_1",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble",
+        "Warm white marble"
+      ],
+      "triangles": 28924,
+      "bounds_local_m": [
+        [
+          -35.22999954223633,
+          -24.229999542236328,
+          1.2000000476837158
+        ],
+        [
+          35.22999954223633,
+          24.229999542236328,
+          2.6600000858306885
+        ]
+      ]
+    },
+    {
+      "name": "SM_01_Balustrade_2",
+      "source_name": "Balustrade_2",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble",
+        "Warm white marble"
+      ],
+      "triangles": 24664,
+      "bounds_local_m": [
+        [
+          -31.729999542236328,
+          -20.729999542236328,
+          2.4000000953674316
+        ],
+        [
+          31.729999542236328,
+          20.729999542236328,
+          3.859999895095825
+        ]
+      ]
+    },
+    {
+      "name": "SM_02_Balustrade_3",
+      "source_name": "Balustrade_3",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble",
+        "Warm white marble"
+      ],
+      "triangles": 21540,
+      "bounds_local_m": [
+        [
+          -28.229999542236328,
+          -17.229999542236328,
+          3.5999999046325684
+        ],
+        [
+          28.229999542236328,
+          17.229999542236328,
+          5.059999942779541
+        ]
+      ]
+    },
+    {
+      "name": "SM_03_Columns_East",
+      "source_name": "Columns_East",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble",
+        "Vermilion lacquer",
+        "Blue green painted beams"
+      ],
+      "triangles": 580,
+      "bounds_local_m": [
+        [
+          21.420000076293945,
+          -8.279999732971191,
+          3.9600000381469727
+        ],
+        [
+          22.579999923706055,
+          8.279999732971191,
+          10.595000267028809
+        ]
+      ]
+    },
+    {
+      "name": "SM_04_Columns_North",
+      "source_name": "Columns_North",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble",
+        "Vermilion lacquer",
+        "Gilded architectural details",
+        "Blue green painted beams"
+      ],
+      "triangles": 1920,
+      "bounds_local_m": [
+        [
+          -22.579999923706055,
+          11.020000457763672,
+          3.9600000381469727
+        ],
+        [
+          22.579999923706055,
+          12.180000305175781,
+          10.595000267028809
+        ]
+      ]
+    },
+    {
+      "name": "SM_05_Columns_South",
+      "source_name": "Columns_South",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble",
+        "Vermilion lacquer",
+        "Gilded architectural details",
+        "Blue green painted beams"
+      ],
+      "triangles": 1920,
+      "bounds_local_m": [
+        [
+          -22.579999923706055,
+          -12.180000305175781,
+          3.9600000381469727
+        ],
+        [
+          22.579999923706055,
+          -11.020000457763672,
+          10.595000267028809
+        ]
+      ]
+    },
+    {
+      "name": "SM_06_Columns_West",
+      "source_name": "Columns_West",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble",
+        "Vermilion lacquer",
+        "Blue green painted beams"
+      ],
+      "triangles": 580,
+      "bounds_local_m": [
+        [
+          -22.579999923706055,
+          -8.279999732971191,
+          3.9600000381469727
+        ],
+        [
+          -21.420000076293945,
+          8.279999732971191,
+          10.595000267028809
+        ]
+      ]
+    },
+    {
+      "name": "SM_07_Courtyard_Vats",
+      "source_name": "Courtyard_Vats",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble",
+        "Patinated bronze",
+        "Gilded architectural details",
+        "Interior shadow"
+      ],
+      "triangles": 600,
+      "bounds_local_m": [
+        [
+          -17.969999313354492,
+          -15.170000076293945,
+          3.5999999046325684
+        ],
+        [
+          17.969999313354492,
+          -13.229999542236328,
+          4.880000114440918
+        ]
+      ]
+    },
+    {
+      "name": "SM_08_Doors_North",
+      "source_name": "Doors_North",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Deep red framing",
+        "Interior shadow",
+        "Vermilion lacquer",
+        "Gilded architectural details"
+      ],
+      "triangles": 16800,
+      "bounds_local_m": [
+        [
+          -19.920000076293945,
+          9.704999923706055,
+          4.179999828338623
+        ],
+        [
+          19.920000076293945,
+          10.170000076293945,
+          9.600000381469727
+        ]
+      ]
+    },
+    {
+      "name": "SM_09_Doors_South",
+      "source_name": "Doors_South",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Deep red framing",
+        "Interior shadow",
+        "Vermilion lacquer",
+        "Gilded architectural details"
+      ],
+      "triangles": 16800,
+      "bounds_local_m": [
+        [
+          -19.920000076293945,
+          -8.170000076293945,
+          4.179999828338623
+        ],
+        [
+          19.920000076293945,
+          -7.704999923706055,
+          9.600000381469727
+        ]
+      ]
+    },
+    {
+      "name": "SM_10_Dougong_Brackets",
+      "source_name": "Dougong_Brackets",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Blue green painted beams",
+        "Gilded architectural details"
+      ],
+      "triangles": 4896,
+      "bounds_local_m": [
+        [
+          -22.639999389648438,
+          -12.529999732971191,
+          10.5649995803833
+        ],
+        [
+          22.639999389648438,
+          12.529999732971191,
+          11.217499732971191
+        ]
+      ]
+    },
+    {
+      "name": "SM_11_Hall_Platform",
+      "source_name": "Hall_Platform",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble",
+        "Deep red framing"
+      ],
+      "triangles": 24,
+      "bounds_local_m": [
+        [
+          -23.5,
+          -12.800000190734863,
+          3.5999999046325684
+        ],
+        [
+          23.5,
+          12.800000190734863,
+          4.119999885559082
+        ]
+      ]
+    },
+    {
+      "name": "SM_12_Hall_WallShell",
+      "source_name": "Hall_WallShell",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Vermilion lacquer"
+      ],
+      "triangles": 12,
+      "bounds_local_m": [
+        [
+          -20.299999237060547,
+          -7.75,
+          4.050000190734863
+        ],
+        [
+          20.299999237060547,
+          9.75,
+          9.949999809265137
+        ]
+      ]
+    },
+    {
+      "name": "SM_13_Imperial_Ramp",
+      "source_name": "Imperial_Ramp",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Warm white marble",
+        "Carved white marble"
+      ],
+      "triangles": 2838,
+      "bounds_local_m": [
+        [
+          -1.4700000286102295,
+          -27.379568099975586,
+          0.14499527215957642
+        ],
+        [
+          1.4700000286102295,
+          -16.870431900024414,
+          3.9150047302246094
+        ]
+      ]
+    },
+    {
+      "name": "SM_14_Incense_Burners",
+      "source_name": "Incense_Burners",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble",
+        "Patinated bronze",
+        "Gilded architectural details"
+      ],
+      "triangles": 2736,
+      "bounds_local_m": [
+        [
+          -25.301185607910156,
+          -12.010000228881836,
+          3.5999999046325684
+        ],
+        [
+          25.301185607910156,
+          10.010000228881836,
+          5.630000114440918
+        ]
+      ]
+    },
+    {
+      "name": "SM_15_Painted_Beams",
+      "source_name": "Painted_Beams",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Blue green painted beams",
+        "Gilded architectural details",
+        "Azurite blue details"
+      ],
+      "triangles": 620,
+      "bounds_local_m": [
+        [
+          -22.899999618530273,
+          -13.0,
+          9.6899995803833
+        ],
+        [
+          22.899999618530273,
+          13.0,
+          10.949999809265137
+        ]
+      ]
+    },
+    {
+      "name": "SM_16_Plaque",
+      "source_name": "Plaque",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Gilded architectural details",
+        "Azurite blue details"
+      ],
+      "triangles": 2460,
+      "bounds_local_m": [
+        [
+          -2.0,
+          -12.63800048828125,
+          8.864999771118164
+        ],
+        [
+          2.0,
+          -12.274999618530273,
+          10.015000343322754
+        ]
+      ]
+    },
+    {
+      "name": "SM_17_Plaza",
+      "source_name": "Plaza",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Marble joints",
+        "Courtyard grey stone",
+        "Warm white marble"
+      ],
+      "triangles": 37356,
+      "bounds_local_m": [
+        [
+          -63.0,
+          -53.0,
+          -0.6800000071525574
+        ],
+        [
+          63.0,
+          53.0,
+          0.03399839997291565
+        ]
+      ]
+    },
+    {
+      "name": "SM_18_Ridge_Ornaments_Lower",
+      "source_name": "Ridge_Ornaments_Lower",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Gilded architectural details"
+      ],
+      "triangles": 13116,
+      "bounds_local_m": [
+        [
+          -26.62477684020996,
+          -15.229734420776367,
+          12.446491241455078
+        ],
+        [
+          26.62477684020996,
+          15.229734420776367,
+          18.055965423583984
+        ]
+      ]
+    },
+    {
+      "name": "SM_19_Ridge_Ornaments_Upper",
+      "source_name": "Ridge_Ornaments_Upper",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Gilded architectural details"
+      ],
+      "triangles": 13116,
+      "bounds_local_m": [
+        [
+          -24.126325607299805,
+          -13.42822551727295,
+          17.074596405029297
+        ],
+        [
+          24.126325607299805,
+          13.42822551727295,
+          23.955965042114258
+        ]
+      ]
+    },
+    {
+      "name": "SM_20_Roof_Lower",
+      "source_name": "Roof_Lower",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Amber glazed tile 04",
+        "Amber glazed tile 05",
+        "Amber glazed tile 03",
+        "Amber glazed tile 01",
+        "Amber glazed tile 00",
+        "Amber glazed tile 02",
+        "Gilded architectural details",
+        "Deep red framing",
+        "Blue green painted beams"
+      ],
+      "triangles": 208080,
+      "bounds_local_m": [
+        [
+          -26.65999984741211,
+          -15.260000228881836,
+          11.010000228881836
+        ],
+        [
+          26.65999984741211,
+          15.260000228881836,
+          16.21463394165039
+        ]
+      ]
+    },
+    {
+      "name": "SM_21_Roof_Upper",
+      "source_name": "Roof_Upper",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Amber glazed tile 03",
+        "Amber glazed tile 02",
+        "Amber glazed tile 00",
+        "Amber glazed tile 01",
+        "Amber glazed tile 05",
+        "Amber glazed tile 04",
+        "Gilded architectural details",
+        "Deep red framing",
+        "Blue green painted beams"
+      ],
+      "triangles": 188784,
+      "bounds_local_m": [
+        [
+          -24.15999984741211,
+          -13.460000038146973,
+          15.5600004196167
+        ],
+        [
+          24.15999984741211,
+          13.460000038146973,
+          22.11179542541504
+        ]
+      ]
+    },
+    {
+      "name": "SM_22_Stairs_East",
+      "source_name": "Stairs_East",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble"
+      ],
+      "triangles": 288,
+      "bounds_local_m": [
+        [
+          28.110000610351562,
+          -3.0,
+          0.0
+        ],
+        [
+          38.2599983215332,
+          3.0,
+          3.5999999046325684
+        ]
+      ]
+    },
+    {
+      "name": "SM_23_Stairs_Front_Center",
+      "source_name": "Stairs_Front_Center",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble"
+      ],
+      "triangles": 456,
+      "bounds_local_m": [
+        [
+          -6.159999847412109,
+          -27.354677200317383,
+          0.0
+        ],
+        [
+          6.159999847412109,
+          -16.945322036743164,
+          4.000366687774658
+        ]
+      ]
+    },
+    {
+      "name": "SM_24_Stairs_Front_East",
+      "source_name": "Stairs_Front_East",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble"
+      ],
+      "triangles": 456,
+      "bounds_local_m": [
+        [
+          16.84000015258789,
+          -27.354677200317383,
+          0.0
+        ],
+        [
+          23.15999984741211,
+          -16.945322036743164,
+          4.000366687774658
+        ]
+      ]
+    },
+    {
+      "name": "SM_25_Stairs_Front_West",
+      "source_name": "Stairs_Front_West",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble"
+      ],
+      "triangles": 456,
+      "bounds_local_m": [
+        [
+          -23.15999984741211,
+          -27.354677200317383,
+          0.0
+        ],
+        [
+          -16.84000015258789,
+          -16.945322036743164,
+          4.000366687774658
+        ]
+      ]
+    },
+    {
+      "name": "SM_26_Stairs_West",
+      "source_name": "Stairs_West",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Carved white marble"
+      ],
+      "triangles": 288,
+      "bounds_local_m": [
+        [
+          -38.2599983215332,
+          -3.0,
+          0.0
+        ],
+        [
+          -28.110000610351562,
+          3.0,
+          3.5999999046325684
+        ]
+      ]
+    },
+    {
+      "name": "SM_27_Terrace_1",
+      "source_name": "Terrace_1",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Warm white marble",
+        "Carved white marble",
+        "Marble joints"
+      ],
+      "triangles": 360,
+      "bounds_local_m": [
+        [
+          -35.29999923706055,
+          -24.299999237060547,
+          0.0
+        ],
+        [
+          35.29999923706055,
+          24.299999237060547,
+          1.2300000190734863
+        ]
+      ]
+    },
+    {
+      "name": "SM_28_Terrace_2",
+      "source_name": "Terrace_2",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Warm white marble",
+        "Carved white marble",
+        "Marble joints"
+      ],
+      "triangles": 324,
+      "bounds_local_m": [
+        [
+          -31.799999237060547,
+          -20.799999237060547,
+          1.2000000476837158
+        ],
+        [
+          31.799999237060547,
+          20.799999237060547,
+          2.430000066757202
+        ]
+      ]
+    },
+    {
+      "name": "SM_29_Terrace_3",
+      "source_name": "Terrace_3",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Warm white marble",
+        "Carved white marble",
+        "Marble joints"
+      ],
+      "triangles": 300,
+      "bounds_local_m": [
+        [
+          -28.299999237060547,
+          -17.299999237060547,
+          2.4000000953674316
+        ],
+        [
+          28.299999237060547,
+          17.299999237060547,
+          3.630000114440918
+        ]
+      ]
+    },
+    {
+      "name": "SM_30_Upper_Clerestory",
+      "source_name": "Upper_Clerestory",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Vermilion lacquer",
+        "Blue green painted beams",
+        "Gilded architectural details",
+        "Azurite blue details"
+      ],
+      "triangles": 1536,
+      "bounds_local_m": [
+        [
+          -21.600000381469727,
+          -10.75,
+          13.5
+        ],
+        [
+          21.600000381469727,
+          10.75,
+          15.710000038146973
+        ]
+      ]
+    },
+    {
+      "name": "SM_31_Windows_East",
+      "source_name": "Windows_East",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Interior shadow",
+        "Gilded architectural details"
+      ],
+      "triangles": 1008,
+      "bounds_local_m": [
+        [
+          20.329999923706055,
+          -6.675000190734863,
+          5.550000190734863
+        ],
+        [
+          20.5049991607666,
+          8.675000190734863,
+          9.25
+        ]
+      ]
+    },
+    {
+      "name": "SM_32_Windows_West",
+      "source_name": "Windows_West",
+      "source_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "slots": [
+        "Interior shadow",
+        "Gilded architectural details"
+      ],
+      "triangles": 1008,
+      "bounds_local_m": [
+        [
+          -20.5049991607666,
+          -6.675000190734863,
+          5.550000190734863
+        ],
+        [
+          -20.329999923706055,
+          8.675000190734863,
+          9.25
+        ]
+      ]
+    }
+  ]
+}

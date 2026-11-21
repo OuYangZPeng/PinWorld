@@ -1,0 +1,33 @@
+Using bundled DotNet SDK version: 8.0.300 win-x64
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" PinWorldEditor Win64 Development -Project="D:\UE5\Project\PinWorld\PinWorld.uproject" -WaitMutex
+Log file: C:\Users\ouyangzengpeng\AppData\Local\UnrealBuildTool\Log.txt
+Parsing headers for PinWorldEditor
+  Running Internal UnrealHeaderTool D:\UE5\Project\PinWorld\PinWorld.uproject D:\UE5\Project\PinWorld\Intermediate\Build\Win64\PinWorldEditor\Development\PinWorldEditor.uhtmanifest -WarningsAsErrors -installed
+Total of 0 written
+Reflection code generated for PinWorldEditor in 5.2647406 seconds
+Building PinWorldEditor...
+Using Visual Studio 2022 14.38.33145 toolchain (F:\Visual Studio\2022\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Determining max actions to execute in parallel (10 physical cores, 20 logical cores)
+  Executing up to 10 processes, one per physical core
+Using Unreal Build Accelerator local executor to run 11 action(s)
+  Storage capacity 40Gb
+---- Starting trace: 261119_113134 ----
+UbaServer - Listening on 0.0.0.0:1345
+------ Building 11 action(s) started ------
+[1/11] Compile [x64] MigrationState.cpp
+[2/11] Compile [x64] Module.PinWorld.gen.cpp
+[3/11] Compile [x64] MigrationSession.cpp
+[4/11] Compile [x64] MigrationPreview.cpp
+[5/11] Compile [x64] MigrationController.cpp
+[6/11] Compile [x64] MigrationHUD.cpp
+[7/11] Compile [x64] MigrationSmoke.cpp
+[8/11] Compile [x64] MigrationScene.cpp
+[9/11] Link [x64] UnrealEditor-PinWorld.lib
+  正在创建库 D:/UE5/Project/PinWorld/Intermediate/Build/Win64/x64/UnrealEditor/Development/PinWorld/UnrealEditor-PinWorld.lib 和对象 D:/UE5/Project/PinWorld/Intermediate/Build/Win64/x64/UnrealEditor/Development/PinWorld/UnrealEditor-PinWorld.exp
+[10/11] Link [x64] UnrealEditor-PinWorld.dll
+[11/11] WriteMetadata PinWorldEditor.target (UBA disabled)
+Trace written to file C:/Users/ouyangzengpeng/AppData/Local/UnrealBuildTool/Log.uba with size 6.0kb
+Total time in Unreal Build Accelerator local executor: 15.65 seconds
+
+Result: Succeeded
+Total execution time: 24.93 seconds

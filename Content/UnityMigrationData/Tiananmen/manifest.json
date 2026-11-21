@@ -1,0 +1,1343 @@
+{
+  "schemaVersion": 1,
+  "level": "Tiananmen",
+  "panelEntries": [
+    {
+      "id": "Arch_Vault_0",
+      "name": "Arch Vault 0",
+      "rendererObjectIds": [
+        "Arch_Vault_0"
+      ],
+      "memberPlaceableIds": [
+        "Arch_Vault_0"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Arch_Vault_1",
+      "name": "Arch Vault 1",
+      "rendererObjectIds": [
+        "Arch_Vault_1"
+      ],
+      "memberPlaceableIds": [
+        "Arch_Vault_1"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Arch_Vault_2",
+      "name": "Arch Vault 2",
+      "rendererObjectIds": [
+        "Arch_Vault_2"
+      ],
+      "memberPlaceableIds": [
+        "Arch_Vault_2"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Arch_Vault_3",
+      "name": "Arch Vault 3",
+      "rendererObjectIds": [
+        "Arch_Vault_3"
+      ],
+      "memberPlaceableIds": [
+        "Arch_Vault_3"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Arch_Vault_4",
+      "name": "Arch Vault 4",
+      "rendererObjectIds": [
+        "Arch_Vault_4"
+      ],
+      "memberPlaceableIds": [
+        "Arch_Vault_4"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Balustrade_Back",
+      "name": "Balustrade Back",
+      "rendererObjectIds": [
+        "Balustrade_Back"
+      ],
+      "memberPlaceableIds": [
+        "Balustrade_Back"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Balustrade_East",
+      "name": "Balustrade East",
+      "rendererObjectIds": [
+        "Balustrade_East"
+      ],
+      "memberPlaceableIds": [
+        "Balustrade_East"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Balustrade_Front",
+      "name": "Balustrade Front",
+      "rendererObjectIds": [
+        "Balustrade_Front"
+      ],
+      "memberPlaceableIds": [
+        "Balustrade_Front"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Balustrade_West",
+      "name": "Balustrade West",
+      "rendererObjectIds": [
+        "Balustrade_West"
+      ],
+      "memberPlaceableIds": [
+        "Balustrade_West"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Central_Blank_Panel",
+      "name": "Central Blank Panel",
+      "rendererObjectIds": [
+        "Central_Blank_Panel"
+      ],
+      "memberPlaceableIds": [
+        "Central_Blank_Panel"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Columns_Back",
+      "name": "Columns Back",
+      "rendererObjectIds": [
+        "Columns_Back"
+      ],
+      "memberPlaceableIds": [
+        "Columns_Back"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Columns_Front",
+      "name": "Columns Front",
+      "rendererObjectIds": [
+        "Columns_Front"
+      ],
+      "memberPlaceableIds": [
+        "Columns_Front"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Doors_Back",
+      "name": "Doors Back",
+      "rendererObjectIds": [
+        "Doors_Back"
+      ],
+      "memberPlaceableIds": [
+        "Doors_Back"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Doors_Front",
+      "name": "Doors Front",
+      "rendererObjectIds": [
+        "Doors_Front"
+      ],
+      "memberPlaceableIds": [
+        "Doors_Front"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Gable_East",
+      "name": "Gable East",
+      "rendererObjectIds": [
+        "Gable_East"
+      ],
+      "memberPlaceableIds": [
+        "Gable_East"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Gable_West",
+      "name": "Gable West",
+      "rendererObjectIds": [
+        "Gable_West"
+      ],
+      "memberPlaceableIds": [
+        "Gable_West"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Hall_Shell",
+      "name": "Hall Shell",
+      "rendererObjectIds": [
+        "Hall_Shell"
+      ],
+      "memberPlaceableIds": [
+        "Hall_Shell"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Painted_Beams_Back",
+      "name": "Painted Beams Back",
+      "rendererObjectIds": [
+        "Painted_Beams_Back"
+      ],
+      "memberPlaceableIds": [
+        "Painted_Beams_Back"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Painted_Beams_Front",
+      "name": "Painted Beams Front",
+      "rendererObjectIds": [
+        "Painted_Beams_Front"
+      ],
+      "memberPlaceableIds": [
+        "Painted_Beams_Front"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Plaza",
+      "name": "Plaza",
+      "rendererObjectIds": [
+        "Plaza"
+      ],
+      "memberPlaceableIds": [
+        "Plaza"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Ridge_Crown",
+      "name": "Ridge Crown",
+      "rendererObjectIds": [
+        "Ridge_Crown"
+      ],
+      "memberPlaceableIds": [
+        "Ridge_Crown"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Roof_Lower",
+      "name": "Roof Lower",
+      "rendererObjectIds": [
+        "Roof_Lower"
+      ],
+      "memberPlaceableIds": [
+        "Roof_Lower"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Roof_Upper",
+      "name": "Roof Upper",
+      "rendererObjectIds": [
+        "Roof_Upper"
+      ],
+      "memberPlaceableIds": [
+        "Roof_Upper"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Terrace_Deck",
+      "name": "Terrace Deck",
+      "rendererObjectIds": [
+        "Terrace_Deck"
+      ],
+      "memberPlaceableIds": [
+        "Terrace_Deck"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Upper_Clerestory",
+      "name": "Upper Clerestory",
+      "rendererObjectIds": [
+        "Upper_Clerestory"
+      ],
+      "memberPlaceableIds": [
+        "Upper_Clerestory"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Wall_Pier_0",
+      "name": "Wall Pier 0",
+      "rendererObjectIds": [
+        "Wall_Pier_0"
+      ],
+      "memberPlaceableIds": [
+        "Wall_Pier_0"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Wall_Pier_1",
+      "name": "Wall Pier 1",
+      "rendererObjectIds": [
+        "Wall_Pier_1"
+      ],
+      "memberPlaceableIds": [
+        "Wall_Pier_1"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Wall_Pier_2",
+      "name": "Wall Pier 2",
+      "rendererObjectIds": [
+        "Wall_Pier_2"
+      ],
+      "memberPlaceableIds": [
+        "Wall_Pier_2"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Wall_Pier_3",
+      "name": "Wall Pier 3",
+      "rendererObjectIds": [
+        "Wall_Pier_3"
+      ],
+      "memberPlaceableIds": [
+        "Wall_Pier_3"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Wall_Pier_4",
+      "name": "Wall Pier 4",
+      "rendererObjectIds": [
+        "Wall_Pier_4"
+      ],
+      "memberPlaceableIds": [
+        "Wall_Pier_4"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Wall_Pier_5",
+      "name": "Wall Pier 5",
+      "rendererObjectIds": [
+        "Wall_Pier_5"
+      ],
+      "memberPlaceableIds": [
+        "Wall_Pier_5"
+      ],
+      "equivalenceGroup": ""
+    }
+  ],
+  "objects": [
+    {
+      "id": "Arch_Vault_0",
+      "name": "Arch_Vault_0",
+      "hierarchyPath": "Tiananmen/Arch_Vault_0",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Arch_Vault_0",
+      "materialIds": [
+        "wall_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Arch_Vault_1",
+      "name": "Arch_Vault_1",
+      "hierarchyPath": "Tiananmen/Arch_Vault_1",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Arch_Vault_1",
+      "materialIds": [
+        "wall_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Arch_Vault_2",
+      "name": "Arch_Vault_2",
+      "hierarchyPath": "Tiananmen/Arch_Vault_2",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Arch_Vault_2",
+      "materialIds": [
+        "wall_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Arch_Vault_3",
+      "name": "Arch_Vault_3",
+      "hierarchyPath": "Tiananmen/Arch_Vault_3",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Arch_Vault_3",
+      "materialIds": [
+        "wall_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Arch_Vault_4",
+      "name": "Arch_Vault_4",
+      "hierarchyPath": "Tiananmen/Arch_Vault_4",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Arch_Vault_4",
+      "materialIds": [
+        "wall_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Balustrade_Back",
+      "name": "Balustrade_Back",
+      "hierarchyPath": "Tiananmen/Balustrade_Back",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Balustrade_Back",
+      "materialIds": [
+        "stone"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Balustrade_East",
+      "name": "Balustrade_East",
+      "hierarchyPath": "Tiananmen/Balustrade_East",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Balustrade_East",
+      "materialIds": [
+        "stone"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Balustrade_Front",
+      "name": "Balustrade_Front",
+      "hierarchyPath": "Tiananmen/Balustrade_Front",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Balustrade_Front",
+      "materialIds": [
+        "stone"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Balustrade_West",
+      "name": "Balustrade_West",
+      "hierarchyPath": "Tiananmen/Balustrade_West",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Balustrade_West",
+      "materialIds": [
+        "stone"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Central_Blank_Panel",
+      "name": "Central_Blank_Panel",
+      "hierarchyPath": "Tiananmen/Central_Blank_Panel",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Central_Blank_Panel",
+      "materialIds": [
+        "stone",
+        "wood_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Columns_Back",
+      "name": "Columns_Back",
+      "hierarchyPath": "Tiananmen/Columns_Back",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Columns_Back",
+      "materialIds": [
+        "stone",
+        "wood_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Columns_Front",
+      "name": "Columns_Front",
+      "hierarchyPath": "Tiananmen/Columns_Front",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Columns_Front",
+      "materialIds": [
+        "stone",
+        "wood_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Doors_Back",
+      "name": "Doors_Back",
+      "hierarchyPath": "Tiananmen/Doors_Back",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Doors_Back",
+      "materialIds": [
+        "window",
+        "wood_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Doors_Front",
+      "name": "Doors_Front",
+      "hierarchyPath": "Tiananmen/Doors_Front",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Doors_Front",
+      "materialIds": [
+        "window",
+        "wood_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Gable_East",
+      "name": "Gable_East",
+      "hierarchyPath": "Tiananmen/Gable_East",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Gable_East",
+      "materialIds": [
+        "wood_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Gable_West",
+      "name": "Gable_West",
+      "hierarchyPath": "Tiananmen/Gable_West",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Gable_West",
+      "materialIds": [
+        "wood_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Hall_Shell",
+      "name": "Hall_Shell",
+      "hierarchyPath": "Tiananmen/Hall_Shell",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Hall_Shell",
+      "materialIds": [
+        "wood_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Painted_Beams_Back",
+      "name": "Painted_Beams_Back",
+      "hierarchyPath": "Tiananmen/Painted_Beams_Back",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Painted_Beams_Back",
+      "materialIds": [
+        "paint_blue",
+        "paint_green",
+        "ridge_gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Painted_Beams_Front",
+      "name": "Painted_Beams_Front",
+      "hierarchyPath": "Tiananmen/Painted_Beams_Front",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Painted_Beams_Front",
+      "materialIds": [
+        "paint_blue",
+        "paint_green",
+        "ridge_gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Plaza",
+      "name": "Plaza",
+      "hierarchyPath": "Tiananmen/Plaza",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Plaza",
+      "materialIds": [
+        "paving"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Ridge_Crown",
+      "name": "Ridge_Crown",
+      "hierarchyPath": "Tiananmen/Ridge_Crown",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Ridge_Crown",
+      "materialIds": [
+        "ridge_gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Roof_Lower",
+      "name": "Roof_Lower",
+      "hierarchyPath": "Tiananmen/Roof_Lower",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Roof_Lower",
+      "materialIds": [
+        "tile_gold",
+        "ridge_gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Roof_Upper",
+      "name": "Roof_Upper",
+      "hierarchyPath": "Tiananmen/Roof_Upper",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Roof_Upper",
+      "materialIds": [
+        "tile_gold",
+        "ridge_gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Terrace_Deck",
+      "name": "Terrace_Deck",
+      "hierarchyPath": "Tiananmen/Terrace_Deck",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Terrace_Deck",
+      "materialIds": [
+        "stone"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Upper_Clerestory",
+      "name": "Upper_Clerestory",
+      "hierarchyPath": "Tiananmen/Upper_Clerestory",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Upper_Clerestory",
+      "materialIds": [
+        "wood_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Wall_Pier_0",
+      "name": "Wall_Pier_0",
+      "hierarchyPath": "Tiananmen/Wall_Pier_0",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Wall_Pier_0",
+      "materialIds": [
+        "wall_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Wall_Pier_1",
+      "name": "Wall_Pier_1",
+      "hierarchyPath": "Tiananmen/Wall_Pier_1",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Wall_Pier_1",
+      "materialIds": [
+        "wall_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Wall_Pier_2",
+      "name": "Wall_Pier_2",
+      "hierarchyPath": "Tiananmen/Wall_Pier_2",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Wall_Pier_2",
+      "materialIds": [
+        "wall_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Wall_Pier_3",
+      "name": "Wall_Pier_3",
+      "hierarchyPath": "Tiananmen/Wall_Pier_3",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Wall_Pier_3",
+      "materialIds": [
+        "wall_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Wall_Pier_4",
+      "name": "Wall_Pier_4",
+      "hierarchyPath": "Tiananmen/Wall_Pier_4",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Wall_Pier_4",
+      "materialIds": [
+        "wall_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Wall_Pier_5",
+      "name": "Wall_Pier_5",
+      "hierarchyPath": "Tiananmen/Wall_Pier_5",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Wall_Pier_5",
+      "materialIds": [
+        "wall_red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "id": "wall_red",
+      "color": {
+        "r": 0.47999998927116394,
+        "g": 0.03500000014901161,
+        "b": 0.017999999225139618,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "wood_red",
+      "color": {
+        "r": 0.3199999928474426,
+        "g": 0.017999999225139618,
+        "b": 0.012000000104308128,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "tile_gold",
+      "color": {
+        "r": 0.800000011920929,
+        "g": 0.4300000071525574,
+        "b": 0.03500000014901161,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "ridge_gold",
+      "color": {
+        "r": 0.949999988079071,
+        "g": 0.6200000047683716,
+        "b": 0.07999999821186066,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "stone",
+      "color": {
+        "r": 0.6499999761581421,
+        "g": 0.6299999952316284,
+        "b": 0.550000011920929,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "paving",
+      "color": {
+        "r": 0.2800000011920929,
+        "g": 0.28999999165534973,
+        "b": 0.2800000011920929,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "paint_blue",
+      "color": {
+        "r": 0.02500000037252903,
+        "g": 0.12999999523162842,
+        "b": 0.25,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "paint_green",
+      "color": {
+        "r": 0.02500000037252903,
+        "g": 0.23999999463558197,
+        "b": 0.11999999731779099,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "window",
+      "color": {
+        "r": 0.04500000178813934,
+        "g": 0.02500000037252903,
+        "b": 0.017999999225139618,
+        "a": 1.0
+      }
+    }
+  ],
+  "doors": []
+}

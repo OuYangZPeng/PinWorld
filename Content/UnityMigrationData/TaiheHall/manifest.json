@@ -1,0 +1,1543 @@
+{
+  "schemaVersion": 1,
+  "level": "TaiheHall",
+  "panelEntries": [
+    {
+      "id": "Balustrade_1",
+      "name": "Balustrade 1",
+      "rendererObjectIds": [
+        "Balustrade_1"
+      ],
+      "memberPlaceableIds": [
+        "Balustrade_1"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Balustrade_2",
+      "name": "Balustrade 2",
+      "rendererObjectIds": [
+        "Balustrade_2"
+      ],
+      "memberPlaceableIds": [
+        "Balustrade_2"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Balustrade_3",
+      "name": "Balustrade 3",
+      "rendererObjectIds": [
+        "Balustrade_3"
+      ],
+      "memberPlaceableIds": [
+        "Balustrade_3"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Columns_East",
+      "name": "Columns East",
+      "rendererObjectIds": [
+        "Columns_East"
+      ],
+      "memberPlaceableIds": [
+        "Columns_East"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Columns_North",
+      "name": "Columns North",
+      "rendererObjectIds": [
+        "Columns_North"
+      ],
+      "memberPlaceableIds": [
+        "Columns_North"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Columns_South",
+      "name": "Columns South",
+      "rendererObjectIds": [
+        "Columns_South"
+      ],
+      "memberPlaceableIds": [
+        "Columns_South"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Columns_West",
+      "name": "Columns West",
+      "rendererObjectIds": [
+        "Columns_West"
+      ],
+      "memberPlaceableIds": [
+        "Columns_West"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Courtyard_Vats",
+      "name": "Courtyard Vats",
+      "rendererObjectIds": [
+        "Courtyard_Vats"
+      ],
+      "memberPlaceableIds": [
+        "Courtyard_Vats"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Doors_North",
+      "name": "Doors North",
+      "rendererObjectIds": [
+        "Doors_North"
+      ],
+      "memberPlaceableIds": [
+        "Doors_North"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Doors_South",
+      "name": "Doors South",
+      "rendererObjectIds": [
+        "Doors_South"
+      ],
+      "memberPlaceableIds": [
+        "Doors_South"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Dougong_Brackets",
+      "name": "Dougong Brackets",
+      "rendererObjectIds": [
+        "Dougong_Brackets"
+      ],
+      "memberPlaceableIds": [
+        "Dougong_Brackets"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Hall_Platform",
+      "name": "Hall Platform",
+      "rendererObjectIds": [
+        "Hall_Platform"
+      ],
+      "memberPlaceableIds": [
+        "Hall_Platform"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Hall_WallShell",
+      "name": "Hall WallShell",
+      "rendererObjectIds": [
+        "Hall_WallShell"
+      ],
+      "memberPlaceableIds": [
+        "Hall_WallShell"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Imperial_Ramp",
+      "name": "Imperial Ramp",
+      "rendererObjectIds": [
+        "Imperial_Ramp"
+      ],
+      "memberPlaceableIds": [
+        "Imperial_Ramp"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Incense_Burners",
+      "name": "Incense Burners",
+      "rendererObjectIds": [
+        "Incense_Burners"
+      ],
+      "memberPlaceableIds": [
+        "Incense_Burners"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Painted_Beams",
+      "name": "Painted Beams",
+      "rendererObjectIds": [
+        "Painted_Beams"
+      ],
+      "memberPlaceableIds": [
+        "Painted_Beams"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Plaque",
+      "name": "Plaque",
+      "rendererObjectIds": [
+        "Plaque"
+      ],
+      "memberPlaceableIds": [
+        "Plaque"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Plaza",
+      "name": "Plaza",
+      "rendererObjectIds": [
+        "Plaza"
+      ],
+      "memberPlaceableIds": [
+        "Plaza"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Ridge_Ornaments_Lower",
+      "name": "Ridge Ornaments Lower",
+      "rendererObjectIds": [
+        "Ridge_Ornaments_Lower"
+      ],
+      "memberPlaceableIds": [
+        "Ridge_Ornaments_Lower"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Ridge_Ornaments_Upper",
+      "name": "Ridge Ornaments Upper",
+      "rendererObjectIds": [
+        "Ridge_Ornaments_Upper"
+      ],
+      "memberPlaceableIds": [
+        "Ridge_Ornaments_Upper"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Roof_Lower",
+      "name": "Roof Lower",
+      "rendererObjectIds": [
+        "Roof_Lower"
+      ],
+      "memberPlaceableIds": [
+        "Roof_Lower"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Roof_Upper",
+      "name": "Roof Upper",
+      "rendererObjectIds": [
+        "Roof_Upper"
+      ],
+      "memberPlaceableIds": [
+        "Roof_Upper"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Stairs_East",
+      "name": "Stairs East",
+      "rendererObjectIds": [
+        "Stairs_East"
+      ],
+      "memberPlaceableIds": [
+        "Stairs_East"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Stairs_Front_Center",
+      "name": "Stairs Front Center",
+      "rendererObjectIds": [
+        "Stairs_Front_Center"
+      ],
+      "memberPlaceableIds": [
+        "Stairs_Front_Center"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Stairs_Front_East",
+      "name": "Stairs Front East",
+      "rendererObjectIds": [
+        "Stairs_Front_East"
+      ],
+      "memberPlaceableIds": [
+        "Stairs_Front_East"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Stairs_Front_West",
+      "name": "Stairs Front West",
+      "rendererObjectIds": [
+        "Stairs_Front_West"
+      ],
+      "memberPlaceableIds": [
+        "Stairs_Front_West"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Stairs_West",
+      "name": "Stairs West",
+      "rendererObjectIds": [
+        "Stairs_West"
+      ],
+      "memberPlaceableIds": [
+        "Stairs_West"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Terrace_1",
+      "name": "Terrace 1",
+      "rendererObjectIds": [
+        "Terrace_1"
+      ],
+      "memberPlaceableIds": [
+        "Terrace_1"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Terrace_2",
+      "name": "Terrace 2",
+      "rendererObjectIds": [
+        "Terrace_2"
+      ],
+      "memberPlaceableIds": [
+        "Terrace_2"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Terrace_3",
+      "name": "Terrace 3",
+      "rendererObjectIds": [
+        "Terrace_3"
+      ],
+      "memberPlaceableIds": [
+        "Terrace_3"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Upper_Clerestory",
+      "name": "Upper Clerestory",
+      "rendererObjectIds": [
+        "Upper_Clerestory"
+      ],
+      "memberPlaceableIds": [
+        "Upper_Clerestory"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Windows_East",
+      "name": "Windows East",
+      "rendererObjectIds": [
+        "Windows_East"
+      ],
+      "memberPlaceableIds": [
+        "Windows_East"
+      ],
+      "equivalenceGroup": ""
+    },
+    {
+      "id": "Windows_West",
+      "name": "Windows West",
+      "rendererObjectIds": [
+        "Windows_West"
+      ],
+      "memberPlaceableIds": [
+        "Windows_West"
+      ],
+      "equivalenceGroup": ""
+    }
+  ],
+  "objects": [
+    {
+      "id": "Balustrade_1",
+      "name": "Balustrade_1",
+      "hierarchyPath": "TaiheHall/Balustrade_1",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Balustrade_1",
+      "materialIds": [
+        "stone_light",
+        "stone"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Balustrade_2",
+      "name": "Balustrade_2",
+      "hierarchyPath": "TaiheHall/Balustrade_2",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Balustrade_2",
+      "materialIds": [
+        "stone_light",
+        "stone"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Balustrade_3",
+      "name": "Balustrade_3",
+      "hierarchyPath": "TaiheHall/Balustrade_3",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Balustrade_3",
+      "materialIds": [
+        "stone_light",
+        "stone"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Columns_East",
+      "name": "Columns_East",
+      "hierarchyPath": "TaiheHall/Columns_East",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Columns_East",
+      "materialIds": [
+        "stone_light",
+        "red",
+        "teal"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Columns_North",
+      "name": "Columns_North",
+      "hierarchyPath": "TaiheHall/Columns_North",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Columns_North",
+      "materialIds": [
+        "stone_light",
+        "red",
+        "gold",
+        "teal"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Columns_South",
+      "name": "Columns_South",
+      "hierarchyPath": "TaiheHall/Columns_South",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Columns_South",
+      "materialIds": [
+        "stone_light",
+        "red",
+        "gold",
+        "teal"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Columns_West",
+      "name": "Columns_West",
+      "hierarchyPath": "TaiheHall/Columns_West",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Columns_West",
+      "materialIds": [
+        "stone_light",
+        "red",
+        "teal"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Courtyard_Vats",
+      "name": "Courtyard_Vats",
+      "hierarchyPath": "TaiheHall/Courtyard_Vats",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Courtyard_Vats",
+      "materialIds": [
+        "stone_light",
+        "bronze",
+        "gold",
+        "dark"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Doors_North",
+      "name": "Doors_North",
+      "hierarchyPath": "TaiheHall/Doors_North",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Doors_North",
+      "materialIds": [
+        "darkred",
+        "dark",
+        "red",
+        "gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Doors_South",
+      "name": "Doors_South",
+      "hierarchyPath": "TaiheHall/Doors_South",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Doors_South",
+      "materialIds": [
+        "darkred",
+        "dark",
+        "red",
+        "gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Dougong_Brackets",
+      "name": "Dougong_Brackets",
+      "hierarchyPath": "TaiheHall/Dougong_Brackets",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Dougong_Brackets",
+      "materialIds": [
+        "teal",
+        "gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Hall_Platform",
+      "name": "Hall_Platform",
+      "hierarchyPath": "TaiheHall/Hall_Platform",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Hall_Platform",
+      "materialIds": [
+        "stone_light",
+        "darkred"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Hall_WallShell",
+      "name": "Hall_WallShell",
+      "hierarchyPath": "TaiheHall/Hall_WallShell",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Hall_WallShell",
+      "materialIds": [
+        "red"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Imperial_Ramp",
+      "name": "Imperial_Ramp",
+      "hierarchyPath": "TaiheHall/Imperial_Ramp",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Imperial_Ramp",
+      "materialIds": [
+        "stone",
+        "stone_light"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Incense_Burners",
+      "name": "Incense_Burners",
+      "hierarchyPath": "TaiheHall/Incense_Burners",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Incense_Burners",
+      "materialIds": [
+        "stone_light",
+        "bronze",
+        "gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Painted_Beams",
+      "name": "Painted_Beams",
+      "hierarchyPath": "TaiheHall/Painted_Beams",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Painted_Beams",
+      "materialIds": [
+        "teal",
+        "gold",
+        "blue"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Plaque",
+      "name": "Plaque",
+      "hierarchyPath": "TaiheHall/Plaque",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Plaque",
+      "materialIds": [
+        "gold",
+        "blue"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Plaza",
+      "name": "Plaza",
+      "hierarchyPath": "TaiheHall/Plaza",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Plaza",
+      "materialIds": [
+        "stone_dark",
+        "paving",
+        "stone"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Ridge_Ornaments_Lower",
+      "name": "Ridge_Ornaments_Lower",
+      "hierarchyPath": "TaiheHall/Ridge_Ornaments_Lower",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Ridge_Ornaments_Lower",
+      "materialIds": [
+        "gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Ridge_Ornaments_Upper",
+      "name": "Ridge_Ornaments_Upper",
+      "hierarchyPath": "TaiheHall/Ridge_Ornaments_Upper",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Ridge_Ornaments_Upper",
+      "materialIds": [
+        "gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Roof_Lower",
+      "name": "Roof_Lower",
+      "hierarchyPath": "TaiheHall/Roof_Lower",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Roof_Lower",
+      "materialIds": [
+        "tile4",
+        "tile5",
+        "tile3",
+        "tile1",
+        "tile0",
+        "tile2",
+        "gold",
+        "darkred",
+        "teal"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Roof_Upper",
+      "name": "Roof_Upper",
+      "hierarchyPath": "TaiheHall/Roof_Upper",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Roof_Upper",
+      "materialIds": [
+        "tile3",
+        "tile2",
+        "tile0",
+        "tile1",
+        "tile5",
+        "tile4",
+        "gold",
+        "darkred",
+        "teal"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Stairs_East",
+      "name": "Stairs_East",
+      "hierarchyPath": "TaiheHall/Stairs_East",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Stairs_East",
+      "materialIds": [
+        "stone_light"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Stairs_Front_Center",
+      "name": "Stairs_Front_Center",
+      "hierarchyPath": "TaiheHall/Stairs_Front_Center",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Stairs_Front_Center",
+      "materialIds": [
+        "stone_light"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Stairs_Front_East",
+      "name": "Stairs_Front_East",
+      "hierarchyPath": "TaiheHall/Stairs_Front_East",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Stairs_Front_East",
+      "materialIds": [
+        "stone_light"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Stairs_Front_West",
+      "name": "Stairs_Front_West",
+      "hierarchyPath": "TaiheHall/Stairs_Front_West",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Stairs_Front_West",
+      "materialIds": [
+        "stone_light"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Stairs_West",
+      "name": "Stairs_West",
+      "hierarchyPath": "TaiheHall/Stairs_West",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Stairs_West",
+      "materialIds": [
+        "stone_light"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Terrace_1",
+      "name": "Terrace_1",
+      "hierarchyPath": "TaiheHall/Terrace_1",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Terrace_1",
+      "materialIds": [
+        "stone",
+        "stone_light",
+        "stone_dark"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Terrace_2",
+      "name": "Terrace_2",
+      "hierarchyPath": "TaiheHall/Terrace_2",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Terrace_2",
+      "materialIds": [
+        "stone",
+        "stone_light",
+        "stone_dark"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Terrace_3",
+      "name": "Terrace_3",
+      "hierarchyPath": "TaiheHall/Terrace_3",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Terrace_3",
+      "materialIds": [
+        "stone",
+        "stone_light",
+        "stone_dark"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Upper_Clerestory",
+      "name": "Upper_Clerestory",
+      "hierarchyPath": "TaiheHall/Upper_Clerestory",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Upper_Clerestory",
+      "materialIds": [
+        "red",
+        "teal",
+        "gold",
+        "blue"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Windows_East",
+      "name": "Windows_East",
+      "hierarchyPath": "TaiheHall/Windows_East",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Windows_East",
+      "materialIds": [
+        "dark",
+        "gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "Windows_West",
+      "name": "Windows_West",
+      "hierarchyPath": "TaiheHall/Windows_West",
+      "active": true,
+      "rendererEnabled": true,
+      "meshId": "Windows_West",
+      "materialIds": [
+        "dark",
+        "gold"
+      ],
+      "worldMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "id": "stone",
+      "color": {
+        "r": 0.7400000095367432,
+        "g": 0.7200000286102295,
+        "b": 0.6499999761581421,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "stone_light",
+      "color": {
+        "r": 0.8799999952316284,
+        "g": 0.8600000143051147,
+        "b": 0.7699999809265137,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "stone_dark",
+      "color": {
+        "r": 0.38999998569488525,
+        "g": 0.4000000059604645,
+        "b": 0.3700000047683716,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "red",
+      "color": {
+        "r": 0.4300000071525574,
+        "g": 0.03200000151991844,
+        "b": 0.020999999716877937,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "darkred",
+      "color": {
+        "r": 0.2199999988079071,
+        "g": 0.017999999225139618,
+        "b": 0.013000000268220901,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "teal",
+      "color": {
+        "r": 0.017000000923871994,
+        "g": 0.1899999976158142,
+        "b": 0.20000000298023224,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "blue",
+      "color": {
+        "r": 0.017999999225139618,
+        "g": 0.0949999988079071,
+        "b": 0.25,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "gold",
+      "color": {
+        "r": 0.8199999928474426,
+        "g": 0.44999998807907104,
+        "b": 0.07500000298023224,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "dark",
+      "color": {
+        "r": 0.02199999988079071,
+        "g": 0.014999999664723873,
+        "b": 0.012000000104308128,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "bronze",
+      "color": {
+        "r": 0.10000000149011612,
+        "g": 0.17000000178813934,
+        "b": 0.11500000208616257,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "paving",
+      "color": {
+        "r": 0.3499999940395355,
+        "g": 0.3700000047683716,
+        "b": 0.36000001430511475,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "tile0",
+      "color": {
+        "r": 0.699999988079071,
+        "g": 0.30000001192092896,
+        "b": 0.02800000086426735,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "tile1",
+      "color": {
+        "r": 0.7250000238418579,
+        "g": 0.3179999887943268,
+        "b": 0.03400000184774399,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "tile2",
+      "color": {
+        "r": 0.75,
+        "g": 0.335999995470047,
+        "b": 0.03999999910593033,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "tile3",
+      "color": {
+        "r": 0.7749999761581421,
+        "g": 0.3540000021457672,
+        "b": 0.04600000008940697,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "tile4",
+      "color": {
+        "r": 0.800000011920929,
+        "g": 0.3720000088214874,
+        "b": 0.052000001072883606,
+        "a": 1.0
+      }
+    },
+    {
+      "id": "tile5",
+      "color": {
+        "r": 0.824999988079071,
+        "g": 0.38999998569488525,
+        "b": 0.057999998331069946,
+        "a": 1.0
+      }
+    }
+  ],
+  "doors": []
+}

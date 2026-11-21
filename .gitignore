@@ -1,0 +1,28 @@
+# Unreal Engine generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Packaged/
+
+# IDE
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.vscode/ipch/
+.vscode/*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Art source backups
+Art/**/*.blend1
+
+# Single file exceeds GitHub 100MB hard limit
+Content/Earth/Meshes/SM_Earth.uasset

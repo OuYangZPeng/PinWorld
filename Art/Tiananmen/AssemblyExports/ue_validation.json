@@ -1,0 +1,516 @@
+{
+  "status": "PASS",
+  "map": "/Game/Environment/Tiananmen/Maps/TiananmenPreview",
+  "mesh_count": 31,
+  "material_count": 9,
+  "slot_count": 42,
+  "objects": [
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_00_Arch_Vault_0.SM_00_Arch_Vault_0",
+      "size_cm": [
+        400.00048828125,
+        2800.0,
+        780.0000305175781
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wall_red.M_wall_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_01_Arch_Vault_1.SM_01_Arch_Vault_1",
+      "size_cm": [
+        420.00030517578125,
+        2800.0,
+        780.0000305175781
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wall_red.M_wall_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_02_Arch_Vault_2.SM_02_Arch_Vault_2",
+      "size_cm": [
+        520.000244140625,
+        2800.0,
+        780.0000305175781
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wall_red.M_wall_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_03_Arch_Vault_3.SM_03_Arch_Vault_3",
+      "size_cm": [
+        420.00030517578125,
+        2800.0,
+        780.0000305175781
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wall_red.M_wall_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_04_Arch_Vault_4.SM_04_Arch_Vault_4",
+      "size_cm": [
+        400.00048828125,
+        2800.0,
+        780.0000305175781
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wall_red.M_wall_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_05_Balustrade_Back.SM_05_Balustrade_Back",
+      "size_cm": [
+        6648.000244140625,
+        48.00048828125,
+        165.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_stone.M_stone"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_06_Balustrade_East.SM_06_Balustrade_East",
+      "size_cm": [
+        30.00048828125,
+        2800.0,
+        140.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_stone.M_stone"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_07_Balustrade_Front.SM_07_Balustrade_Front",
+      "size_cm": [
+        6648.000244140625,
+        48.00048828125,
+        165.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_stone.M_stone"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_08_Balustrade_West.SM_08_Balustrade_West",
+      "size_cm": [
+        30.00048828125,
+        2800.0,
+        140.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_stone.M_stone"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_09_Central_Blank_Panel.SM_09_Central_Blank_Panel",
+      "size_cm": [
+        310.0,
+        26.0,
+        330.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_stone.M_stone",
+        "/Game/Environment/Tiananmen/Materials/M_wood_red.M_wood_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_10_Columns_Back.SM_10_Columns_Back",
+      "size_cm": [
+        4904.0,
+        104.00042724609375,
+        620.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_stone.M_stone",
+        "/Game/Environment/Tiananmen/Materials/M_wood_red.M_wood_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_11_Columns_Front.SM_11_Columns_Front",
+      "size_cm": [
+        4904.0,
+        104.00042724609375,
+        620.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_stone.M_stone",
+        "/Game/Environment/Tiananmen/Materials/M_wood_red.M_wood_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_12_Doors_Back.SM_12_Doors_Back",
+      "size_cm": [
+        4709.999755859375,
+        28.50048828125,
+        480.0001220703125
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_window.M_window",
+        "/Game/Environment/Tiananmen/Materials/M_wood_red.M_wood_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_13_Doors_Front.SM_13_Doors_Front",
+      "size_cm": [
+        4709.999755859375,
+        28.50048828125,
+        480.0001220703125
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_window.M_window",
+        "/Game/Environment/Tiananmen/Materials/M_wood_red.M_wood_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_14_Gable_East.SM_14_Gable_East",
+      "size_cm": [
+        0.0,
+        1000.0,
+        400.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wood_red.M_wood_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_15_Gable_West.SM_15_Gable_West",
+      "size_cm": [
+        0.0,
+        1000.0,
+        400.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wood_red.M_wood_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_16_Hall_Shell.SM_16_Hall_Shell",
+      "size_cm": [
+        4900.0,
+        1200.00048828125,
+        660.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wood_red.M_wood_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_17_Painted_Beams_Back.SM_17_Painted_Beams_Back",
+      "size_cm": [
+        5100.0,
+        145.0003662109375,
+        125.5
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_paint_blue.M_paint_blue",
+        "/Game/Environment/Tiananmen/Materials/M_paint_green.M_paint_green",
+        "/Game/Environment/Tiananmen/Materials/M_ridge_gold.M_ridge_gold"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_18_Painted_Beams_Front.SM_18_Painted_Beams_Front",
+      "size_cm": [
+        5100.0,
+        145.0003662109375,
+        125.5
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_paint_blue.M_paint_blue",
+        "/Game/Environment/Tiananmen/Materials/M_paint_green.M_paint_green",
+        "/Game/Environment/Tiananmen/Materials/M_ridge_gold.M_ridge_gold"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_19_Plaza.SM_19_Plaza",
+      "size_cm": [
+        8800.00048828125,
+        5700.0008544921875,
+        60.000003814697266
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_paving.M_paving"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_20_Ridge_Crown.SM_20_Ridge_Crown",
+      "size_cm": [
+        3855.0,
+        50.000335693359375,
+        157.5
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_ridge_gold.M_ridge_gold"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_21_Roof_Lower.SM_21_Roof_Lower",
+      "size_cm": [
+        5609.0,
+        2009.00048828125,
+        307.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_tile_gold.M_tile_gold",
+        "/Game/Environment/Tiananmen/Materials/M_ridge_gold.M_ridge_gold"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_22_Roof_Upper.SM_22_Roof_Upper",
+      "size_cm": [
+        5009.0,
+        1609.00048828125,
+        507.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_tile_gold.M_tile_gold",
+        "/Game/Environment/Tiananmen/Materials/M_ridge_gold.M_ridge_gold"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_23_Terrace_Deck.SM_23_Terrace_Deck",
+      "size_cm": [
+        6700.00048828125,
+        2900.00048828125,
+        40.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_stone.M_stone"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_24_Upper_Clerestory.SM_24_Upper_Clerestory",
+      "size_cm": [
+        4400.0,
+        1040.0003662109375,
+        260.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wood_red.M_wood_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_25_Wall_Pier_0.SM_25_Wall_Pier_0",
+      "size_cm": [
+        800.00048828125,
+        2800.0,
+        1200.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wall_red.M_wall_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_26_Wall_Pier_1.SM_26_Wall_Pier_1",
+      "size_cm": [
+        740.0003662109375,
+        2800.0001220703125,
+        1200.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wall_red.M_wall_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_27_Wall_Pier_2.SM_27_Wall_Pier_2",
+      "size_cm": [
+        680.0001831054688,
+        2800.0001220703125,
+        1200.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wall_red.M_wall_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_28_Wall_Pier_3.SM_28_Wall_Pier_3",
+      "size_cm": [
+        680.0001831054688,
+        2800.0001220703125,
+        1200.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wall_red.M_wall_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_29_Wall_Pier_4.SM_29_Wall_Pier_4",
+      "size_cm": [
+        740.0003662109375,
+        2800.0001220703125,
+        1200.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wall_red.M_wall_red"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/Tiananmen/Meshes/SM_30_Wall_Pier_5.SM_30_Wall_Pier_5",
+      "size_cm": [
+        800.00048828125,
+        2800.0,
+        1200.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/Tiananmen/Materials/M_wall_red.M_wall_red"
+      ]
+    }
+  ]
+}

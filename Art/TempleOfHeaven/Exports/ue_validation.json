@@ -1,0 +1,456 @@
+{
+  "status": "PASS",
+  "map": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Maps/HallOfPrayerPreview",
+  "mesh_count": 25,
+  "material_count": 14,
+  "slot_count": 72,
+  "objects": [
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_00_Base_1.SM_00_Base_1",
+      "size_cm": [
+        5650.0,
+        5650.0,
+        150.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_marble.M_marble",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_01_Base_2.SM_01_Base_2",
+      "size_cm": [
+        4850.0,
+        4850.0,
+        150.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_marble.M_marble",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_02_Base_3.SM_02_Base_3",
+      "size_cm": [
+        4050.0,
+        4050.0,
+        150.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_marble.M_marble",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_03_Bracket_1.SM_03_Bracket_1",
+      "size_cm": [
+        3112.0,
+        3112.0,
+        206.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_red.M_red",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_paint_blue.M_paint_blue",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_teal.M_teal"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_04_Bracket_2.SM_04_Bracket_2",
+      "size_cm": [
+        2492.0,
+        2492.0,
+        206.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_red.M_red",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_paint_blue.M_paint_blue",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_teal.M_teal"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_05_Bracket_3.SM_05_Bracket_3",
+      "size_cm": [
+        1921.9998779296875,
+        1921.9998779296875,
+        206.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_red.M_red",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_paint_blue.M_paint_blue",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_teal.M_teal"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_06_Finial.SM_06_Finial",
+      "size_cm": [
+        173.99893188476562,
+        174.0,
+        271.00048828125
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_07_ImperialWay_South.SM_07_ImperialWay_South",
+      "size_cm": [
+        155.00011444091797,
+        1176.13720703125,
+        462.09613037109375
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_marble.M_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_08_Plaque.SM_08_Plaque",
+      "size_cm": [
+        340.00001525878906,
+        31.800048828125,
+        120.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_paint_blue.M_paint_blue"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_09_Plaza_OuterPavers.SM_09_Plaza_OuterPavers",
+      "size_cm": [
+        9997.5009765625,
+        9997.5009765625,
+        9.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_paving_alt.M_paving_alt",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_paving.M_paving"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_10_Plaza_Substrate.SM_10_Plaza_Substrate",
+      "size_cm": [
+        10000.0009765625,
+        10000.0009765625,
+        40.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_grout.M_grout"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_11_Rail_1.SM_11_Rail_1",
+      "size_cm": [
+        5546.06201171875,
+        5546.06201171875,
+        155.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_marble.M_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_12_Rail_2.SM_12_Rail_2",
+      "size_cm": [
+        4739.9462890625,
+        4739.9462890625,
+        155.00003051757812
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_marble.M_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_13_Rail_3.SM_13_Rail_3",
+      "size_cm": [
+        3931.3056640625,
+        3931.3056640625,
+        155.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_marble.M_marble"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_14_Roof_1.SM_14_Roof_1",
+      "size_cm": [
+        3240.9986572265625,
+        3241.0,
+        561.0509033203125
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_tile.M_tile",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_tile_edge.M_tile_edge",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_ridge.M_ridge"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_15_Roof_2.SM_15_Roof_2",
+      "size_cm": [
+        2620.9986572265625,
+        2621.0,
+        531.001953125
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_tile.M_tile",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_tile_edge.M_tile_edge",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_ridge.M_ridge"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_16_Roof_3.SM_16_Roof_3",
+      "size_cm": [
+        2050.9984130859375,
+        2050.999755859375,
+        830.69091796875
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_tile.M_tile",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_tile_edge.M_tile_edge",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_ridge.M_ridge"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_17_Stairs_East.SM_17_Stairs_East",
+      "size_cm": [
+        1179.7684326171875,
+        634.0001220703125,
+        489.047607421875
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_marble.M_marble",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_18_Stairs_North.SM_18_Stairs_North",
+      "size_cm": [
+        634.0001220703125,
+        1179.7684326171875,
+        489.047607421875
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_marble.M_marble",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_19_Stairs_South.SM_19_Stairs_South",
+      "size_cm": [
+        634.0001220703125,
+        1179.7684326171875,
+        489.047607421875
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_marble.M_marble",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_20_Stairs_West.SM_20_Stairs_West",
+      "size_cm": [
+        1179.7684326171875,
+        634.0001220703125,
+        489.047607421875
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_marble.M_marble",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_21_Wall_1.SM_21_Wall_1",
+      "size_cm": [
+        866.1798095703125,
+        2513.9840087890625,
+        810.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_red_dark.M_red_dark",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_red.M_red",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_shadow.M_shadow"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_22_Wall_2.SM_22_Wall_2",
+      "size_cm": [
+        2636.9920654296875,
+        1425.152214050293,
+        810.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_red_dark.M_red_dark",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_red.M_red",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_shadow.M_shadow"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_23_Wall_3.SM_23_Wall_3",
+      "size_cm": [
+        2760.0,
+        1951.6148071289062,
+        810.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_red_dark.M_red_dark",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_red.M_red",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_shadow.M_shadow"
+      ]
+    },
+    {
+      "mesh": "/Game/Environment/TempleOfHeaven/HallOfPrayer/Meshes/SM_24_Wall_4.SM_24_Wall_4",
+      "size_cm": [
+        2636.991943359375,
+        1380.000120643439,
+        810.0
+      ],
+      "location_cm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "materials": [
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_carving.M_carving",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_red_dark.M_red_dark",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_red.M_red",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_gold.M_gold",
+        "/Game/Environment/TempleOfHeaven/HallOfPrayer/Materials/M_shadow.M_shadow"
+      ]
+    }
+  ]
+}

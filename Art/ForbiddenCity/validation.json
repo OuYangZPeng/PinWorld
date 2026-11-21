@@ -1,0 +1,24 @@
+{
+  "blender": "5.2.3 LTS",
+  "engine": "BLENDER_EEVEE",
+  "objects": 21,
+  "vertices": 372594,
+  "polygons": 291119,
+  "bounds": {
+    "x": [
+      -63.0,
+      63.0
+    ],
+    "y": [
+      -53.0,
+      53.0
+    ],
+    "z": [
+      -0.6800000071525574,
+      23.955965042114258
+    ]
+  },
+  "blend": "D:\\UE5\\Project\\PinWorld\\Art\\ForbiddenCity\\TaiheHall.blend",
+  "preview": "D:\\UE5\\Project\\PinWorld\\Art\\ForbiddenCity\\taihe_preview.png",
+  "interpretive_not_survey": true
+}
